@@ -2,7 +2,19 @@
 
 
 ## Question 2
+Initial Value Proposition: A comprehensive application designed to let users view stocks without
+having to sift through unnecessary information. This application will offer honest and accurate 
+information with the user's best interest being the highest priority, share holders and executives
+have no say in the information that is provided to the user.
 
+Initial Customer Segment: 
+College Students
+Homeowners
+Parents
+Beginner Investors
+Intermediate Investors
+Hobbiest Investors
+Expert Financial Consultants/Advisors
 
 ## 3. Interview Summary
 
@@ -33,7 +45,7 @@
   - Must have - Detailed description for each stock
   - Nice to have - Guide to using the app
   
- ### Interview 2: 
+### Interview 2: 
 
 **Summary:**: This is a simple tool traders of all experience levels can get a lot of use out of. It would help expand traders' knowledge on certain stocks and help keep track of their own investments. 
 
@@ -60,5 +72,39 @@
   - Must have - Intuitive UI
   - Must have - Description of stock and their website
   - Nice to have - Include charts/graphs that have accessible time points to look at; i.e., 3, 6 months to 1 year back
+  
+  
+### Interview 3:
+
+**Summary:** An app displaying stock information should be simple and not too cluttered. It should display
+information such as a stock's trading volume, market cap, average trading volume, and beta. Honesty and
+transparency is the most important thing when creating something that will affect the user's financial 
+well being. Users shouldn't see what other people are buying because then they will be buying without a
+fundamental basis, rather hype/heat will be influencing their purchases and that could result in artificial
+share prices.
+
+**Interviewer:** Jack Shanley\
+**Interviewee:** Stef Carmichael\
+**When:** 9/15/2022\
+**Customer Segments:** Expert Financial Consultant/Advisor
+
+**Key Insights**
+  - Integrity, honesty, and transparency are all key
+  - Do not overload the user with too much information
+  - A user shouldn't see what others are buying as it might poorly affect their decisions
+
+**Representative Quotes**
+  - "When it comes to dealing with someone's finances, providing transparency is the most important thing"
+  - "Customizable notifications would be a great feature to include in an app like this"
+  - "The simpler the better"
+
+**Hypotheses that were validated:**
+  - The reputation of honesty and transparency is extremely important.
+  - Simplicity of display and information will produce a more effective application.
+
+**Assessment: Must have / Nice to have / Don't care**
+  - Information that isn't bloated/cluttered (Must)
+  - Transparency and Honesty (Must)
+  - Customizable Information Update Settings (Nice to have)
   
 ## Question 4
