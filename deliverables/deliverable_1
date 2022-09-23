@@ -1,4 +1,5 @@
-## Question 1
+# Project Inception
+## 1. Introduction
 With the rise in popularity of investing in stocks, many individuals still 
 struggle trying to make sense of the information, or find some investing sites 
 to complicated to work with. [PROJECT NAME HERE] aims to fix that problem by 
@@ -13,7 +14,37 @@ whatever the user desires.
 ## Question 2
 
 
-## Question 3
+## 3. Interview Summaries
 
+### Interview 1
+**Interview Summary:** Had and still has an interest in trading stocks, but no 
+interest in day trading. Prefers playing the long game. Stated that he found that 
+his prefered trading app has a simple UI, but could be more user friendly to new 
+traders - click app -> see all the info.
+**Interviewer:** David Knight\
+**Interviewee:** Matt Bender\
+**When:** 9/12/2022\
+
+**Consumer Segments:** 
+
+**Key insights**
+  - Simple UI that presents the info in a way new investors can understand
+  - If someone clicks a stock, all of the information should appear, no unnessesary screens
+
+**Representative Quotes**
+ - "Company transparency is very important because if they are being misleading. The money is no good when there is no trust."
+ - "Notifications about stocks in the same industry would be a cool feature to add."
+ - "I personally like to see active prices, as well as daily and yearly highs and lows."
+
+**Validated Hypotheses**
+  - People appreciate a simple app
+  - People mainly care about prices when investing - they will research articles if they want on their own time
+
+**Assessment: Must have/Nice to have/Don't Care**
+  - Active trading price (Must have)
+  - Daily/Monthly/Yearly highs and lows (Must have)
+  - Graphs (Nice to have)
+  - Notifications (Nice to have)
+  - Recommendations for same industry stocks (Must have)
 
 ## Question 4
