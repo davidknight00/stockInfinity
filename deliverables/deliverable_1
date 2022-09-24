@@ -17,24 +17,25 @@ whatever the user desires.
 ## 3. Interview Summaries
 
 ### Interview 1
+
 **Interview Summary:** Had and still has an interest in trading stocks, but no 
 interest in day trading. Prefers playing the long game. Stated that he found that 
 his prefered trading app has a simple UI, but could be more user friendly to new 
 traders - click app -> see all the info.
+
 **Interviewer:** David Knight\
 **Interviewee:** Matt Bender\
 **When:** 9/12/2022\
-
-**Consumer Segments:** 
+**Consumer Segments:** College Student, Intermediate Investor
 
 **Key insights**
   - Simple UI that presents the info in a way new investors can understand
   - If someone clicks a stock, all of the information should appear, no unnessesary screens
 
 **Representative Quotes**
- - "Company transparency is very important because if they are being misleading. The money is no good when there is no trust."
- - "Notifications about stocks in the same industry would be a cool feature to add."
- - "I personally like to see active prices, as well as daily and yearly highs and lows."
+  - "Company transparency is very important because if they are being misleading. The money is no good when there is no trust."
+  - "Notifications about stocks in the same industry would be a cool feature to add."
+  - "I personally like to see active prices, as well as daily and yearly highs and lows."
 
 **Validated Hypotheses**
   - People appreciate a simple app
@@ -46,5 +47,34 @@ traders - click app -> see all the info.
   - Graphs (Nice to have)
   - Notifications (Nice to have)
   - Recommendations for same industry stocks (Must have)
+
+### Interview 2
+
+**Interview Summary:** Trades with a long term goal of early retirement in mind. Has interests
+in long term investing(10-20 years), short term investing(1-5 years), and day trading. Does not
+like his financial broker app, but would love another app to help him look into and research stocks
+while he invests and looks for a new broker.
+
+**Interviewer:** David Knight\
+**Interviewee:** Alex Condon\
+**When:** 9/16/2022\
+**Consumer Segments:** Intermediate Investor
+
+**Key insights**
+  - A simple and clean UI goes a long way
+  - If possible, look into adding TLDR information about each stock
+
+**Representative Quotes**
+  - "Just tracking a ticker price going up or down is not very useful, but some type of relevant news information would help with making sense of the stocks"
+  - "We should not trade based on what other people believe in but rather where our beliefs lie."
+
+**Validated Hypotheses**
+  - People appreciate a simple app - simple is better
+  - integerity goes a long way
+
+**Assessment: Must have/Nice to have/Don't Care**
+  - Active trading price (Must have)
+  - Daily/Monthly/Yearly highs and lows (Must have)
+  - Graphs for highs and lows (Must have)
 
 ## Question 4
