@@ -20,13 +20,14 @@ information with the user's best interest being the highest priority, share hold
 have no say in the information that is provided to the user.
 
 Initial Customer Segment: 
-College Students
-Homeowners
-Parents
-Beginner Investors
-Intermediate Investors
-Hobbiest Investors
-Expert Financial Consultants/Advisors
+  College Students
+  Homeowners
+  Parents
+  Beginner Investors
+  Intermediate Investors
+  Hobbiest Investors
+  Expert Financial Consultants/Advisors
+  Mechanical Engineer
 
 ## 3. Interview Summaries
 
@@ -178,5 +179,53 @@ share prices.
   - Must have - Intuitive UI
   - Must have - Description of stock and their website
   - Nice to have - Include charts/graphs that have accessible time points to look at; i.e., 3, 6 months to 1 year back
+
+### Interview 6 
+
+**Interview Summary:** 
+
+**Interviewer:** Alex Poole\
+**Interviewee:** Drew Overlin\
+**When:** 9/19/2022\
+**Consumer Segments:** College Student, Intermediate Investor
+
+**Key insights**
+  - Simplicity is key for beginners to start to understand how the stock market works
+  - Showing other stocks in the same sector would be beneficial
+
+**Representative Quotes**
+  - In regards to financial technologies/firms that have been involved in dishonest or controversial practices: "I would say so especially when people were learning that nft’s were mostly just scams. When more information came out about them, people realized that their value was not as high as people hyped them up to be".
+
+**Validated Hypotheses**
+  - Prioritizing simplicity and clarity are paramount
+
+**Assessment: Must have/Nice to have/Don't Care**
+  - Other stocks in the same category (Must have)
+  - An article to go along with the stock that would impact the value (Nice to have)
+
+### Interview 7
+
+**Interview Summary:**
+
+**Interviewer:** Alex Poole\
+**Interviewee:** Ryan Downey\
+**When:** 9/19/2022\
+**Consumer Segments:** Mechanical Engineer, Beginner Investor
+
+**Key insights**
+  - Notifications are valuable
+  - The visual appeal of the app is very important to users
+
+**Representative Quotes**
+  - "I wish that they were more intuitive in the way that they allow me to find information as well as more direct"                                                                                
+
+**Validated Hypotheses**
+  - Users want notifications about the rise and fall of stock prices
+
+**Assessment: Must have/Nice to have/Don't Care**
+  - Daily, weekly, monthly, quarterly, bi-annually, annually, total stock price (Must have)
+  - How many people are invested in a particular stock and how that has changed over time (Must have)
+  - Primary color UI interface (Nice to have)   
   
 ## Question 4
+
