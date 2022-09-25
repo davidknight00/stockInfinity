@@ -20,17 +20,66 @@ information with the user's best interest being the highest priority, share hold
 have no say in the information that is provided to the user.
 
 Initial Customer Segment: 
-College Students
-Homeowners
-Parents
-Beginner Investors
-Intermediate Investors
-Hobbiest Investors
-Expert Financial Consultants/Advisors
+  College Students
+  Homeowners
+  Parents
+  Beginner Investors
+  Intermediate Investors
+  Hobbiest Investors
+  Expert Financial Consultants/Advisors
+  Mechanical Engineer
 
 ## 3. Interview Summaries
 
 ### Interview 1
+
+**Interview Summary:** 
+
+**Interviewer:** Alex Poole\
+**Interviewee:** Drew Overlin\
+**When:** 9/19/2022\
+**Consumer Segments:** College Student, Intermediate Investor
+
+**Key insights**
+  - Simplicity is key for beginners to start to understand how the stock market works
+  - Showing other stocks in the same sector would be beneficial
+
+**Representative Quotes**
+  - In regards to financial technologies/firms that have been involved in dishonest or controversial practices: "I would say so especially when people were learning that nft’s were mostly just scams. When more information came out about them, people realized that their value was not as high as people hyped them up to be".
+
+**Validated Hypotheses**
+  - Prioritizing simplicity and clarity are paramount
+
+**Assessment: Must have/Nice to have/Don't Care**
+  - Other stocks in the same category (Must have)
+  - An article to go along with the stock that would impact the value (Nice to have)
+
+### Interview 2
+
+**Interview Summary:**
+
+**Interviewer:** Alex Poole\
+**Interviewee:** Ryan Downey\
+**When:** 9/19/2022\
+**Consumer Segments:** Mechanical Engineer, Beginner Investor
+
+**Key insights**
+  - Notifications are valuable
+  - The visual appeal of the app is very important to users
+
+**Representative Quotes**
+  - "I wish that they were more intuitive in the way that they allow me to find information as well as more direct"                                                                                
+
+**Validated Hypotheses**
+  - Users want notifications about the rise and fall of stock prices
+
+**Assessment: Must have/Nice to have/Don't Care**
+  - Daily, weekly, monthly, quarterly, bi-annually, annually, total stock price (Must have)
+  - How many people are invested in a particular stock and how that has changed over time (Must have)
+  - Primary color UI interface (Nice to have)   
+ 
+
+### Interview 3
 
 **Interview Summary:** Had and still has an interest in trading stocks, but no 
 interest in day trading. Prefers playing the long game. Stated that he found that 
@@ -62,7 +111,7 @@ traders - click app -> see all the info.
   - Notifications (Nice to have)
   - Recommendations for same industry stocks (Must have)
 
-### Interview 2
+### Interview 4
 
 **Interview Summary:** Trades with a long term goal of early retirement in mind. Has interests
 in long term investing(10-20 years), short term investing(1-5 years), and day trading. Does not
@@ -91,7 +140,7 @@ while he invests and looks for a new broker.
   - Daily/Monthly/Yearly highs and lows (Must have)
   - Graphs for highs and lows (Must have)
   
-### Interview 3:
+### Interview 5
 
 **Summary:** An app displaying stock information should be simple and not too cluttered. It should display
 information such as a stock's trading volume, market cap, average trading volume, and beta. Honesty and
@@ -124,13 +173,13 @@ share prices.
   - Transparency and Honesty (Must)
   - Customizable Information Update Settings (Nice to have)
 
-### Interview 4: 
+### Interview 6
 
 **Summary:**: This application can be really good for novice traders or people that want to begin investing. The need for the app to be intuitive for users is also very important for these types of customers as it helps make trading less intimidating and more motivating to learn. The feature of seeing other traders favorite stocks also gives these type of customers more confidence in what stocks are successful and which ones to stay away from. 
 
-**Interviewer:** Nate Chan
-**Interviewee:** Andi Roman
-**When:** 9/20/2022
+**Interviewer:** Nate Chan\
+**Interviewee:** Andi Roman\
+**When:** 9/20/2022\
 **Consumer Segments:** Novice Trader
 
 **Key Insights**
@@ -151,13 +200,13 @@ share prices.
   - Must have - Detailed description for each stock
   - Nice to have - Guide to using the app
   
-### Interview 5: 
+### Interview 7 
 
 **Summary:**: This is a simple tool traders of all experience levels can get a lot of use out of. It would help expand traders' knowledge on certain stocks and help keep track of their own investments. 
 
-**Interviewer:** Nate Chan
-**Interviewee:** Marisol Calvillo
-**When:** 9/22/2022
+**Interviewer:** Nate Chan\
+**Interviewee:** Marisol Calvillo\
+**When:** 9/22/2022\
 **Consumer Segments:** Intermediate Trader
 
 **Key Insights**
@@ -179,7 +228,51 @@ share prices.
   - Must have - Description of stock and their website
   - Nice to have - Include charts/graphs that have accessible time points to look at; i.e., 3, 6 months to 1 year back
 
-  ## Interview 9:
+### Interview 8
+
+**Interview Summary:** Really doesn't think that robinhood could be beat. Genuine wants for our project however, 
+since it's a simple project, is Current holdings, current holding value, change for today, 
+last up to second price of stock, see in dollar and % for all categories. ( robinhood ) Try to connect the why with the change. Not only good stuff.
+
+**Interviewer:** Preston Lee\
+**Interviewee:** Robert E. Lee\
+**When:** 9/22/2022\
+**Consumer Segments:** Head of Product, User Authentication and Identity - Snap Inc. 
+                       Hasn't shorted stocks or anything at that level, but everything 
+                       below that level. 6-7/10
+
+**Key insights**
+  - Try to connect the why with the change in the stock. Not only the good parts.
+  - Don't bother with crowds.
+  - Try to make prediction possible or at least insight.
+
+**Representative Quotes**
+  - "Trust is built upon transparency, without trust, people won't use it"
+  - "The goal of apps like these are to not be a time sync. Help me make decisions faster. 
+     Buy, hold, sell, and where to invest. Make it quick."
+  - "Crowds are moronic." Don't bother with telling what the popular stocks are. (Meme Stocks) 
+
+**Validated Hypotheses**
+  - Knowing the why is a big selling factor. Try to focus on giving the why for a stock change.
+  - This field is already oversaturated, but is a nice project for our level. 
+
+**Assessment: Must have/Nice to have/Don't Care**
+  ( Must haves )
+  - List of Current Holdings
+  - Current Holding Value
+  - Change for today ( last up to second price of stock )
+  - See dollar and % for all categories
+ 
+  ( Nice To Haves )
+  - Graphs of the stocks
+  - Prediction Graphs showing the data used to get it
+  - A visually easy way to compare trends from the past and present with news articles and 
+    slope equiveliceies.
+
+  ( Don't Care )
+  - Popular group choices.
+
+## Interview 9:
 
   **Summary**: This tool would be very useful to see what the community is investing in rather than the hedge funds or large sharks. The best apps for these types of situations are the ones that will fill your oder, capture your portfolio, show your returns, the purpose of the funds, etc. If this can be accomplished with this app, then it would be very useful to even experienced stock users.
 
@@ -220,3 +313,4 @@ domestic."
 - Must have news about every stock involved
   
 ## Question 4
+
