@@ -276,9 +276,9 @@ last up to second price of stock, see in dollar and % for all categories. ( robi
 
   **Summary**: This tool would be very useful to see what the community is investing in rather than the hedge funds or large sharks. The best apps for these types of situations are the ones that will fill your oder, capture your portfolio, show your returns, the purpose of the funds, etc. If this can be accomplished with this app, then it would be very useful to even experienced stock users.
 
-  **Interviewer:** Joshua Heinz
-  **Interviewee:** Richard Schreiber
-  **When:** 9/21/2022
+  **Interviewer:** Joshua Heinz\
+  **Interviewee:** Richard Schreiber\
+  **When:** 9/21/2022\
   **Consumer Segments:** Experienced Trader
 
   **Key Insights**
