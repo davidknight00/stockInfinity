@@ -177,9 +177,9 @@ share prices.
 
 **Summary:**: This application can be really good for novice traders or people that want to begin investing. The need for the app to be intuitive for users is also very important for these types of customers as it helps make trading less intimidating and more motivating to learn. The feature of seeing other traders favorite stocks also gives these type of customers more confidence in what stocks are successful and which ones to stay away from. 
 
-**Interviewer:** Nate Chan
-**Interviewee:** Andi Roman
-**When:** 9/20/2022
+**Interviewer:** Nate Chan\
+**Interviewee:** Andi Roman\
+**When:** 9/20/2022\
 **Consumer Segments:** Novice Trader
 
 **Key Insights**
@@ -204,9 +204,9 @@ share prices.
 
 **Summary:**: This is a simple tool traders of all experience levels can get a lot of use out of. It would help expand traders' knowledge on certain stocks and help keep track of their own investments. 
 
-**Interviewer:** Nate Chan
-**Interviewee:** Marisol Calvillo
-**When:** 9/22/2022
+**Interviewer:** Nate Chan\
+**Interviewee:** Marisol Calvillo\
+**When:** 9/22/2022\
 **Consumer Segments:** Intermediate Trader
 
 **Key Insights**
