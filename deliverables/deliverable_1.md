@@ -3,9 +3,9 @@
 ## 1. Introduction
 With the rise in popularity of investing in stocks, many individuals still 
 struggle trying to make sense of the information, or find some investing sites 
-to complicated to work with. [PROJECT NAME HERE] aims to fix that problem by 
+to complicated to work with. Stock Infinity aims to fix that problem by 
 helping investors begin looking at stocks with an unbiased point of view.  
-[PROJECT NAME HERE] will bring accurate information about stocks to users and 
+Stock infinity will bring accurate information about stocks to users and 
 the stocks such as current trading price, the ability to view the price over 
 differnt periods of time, show other relevent stocks that may be of interest 
 to the user, and more. Users will also be allowed to favorite stocks and 
@@ -178,5 +178,45 @@ share prices.
   - Must have - Intuitive UI
   - Must have - Description of stock and their website
   - Nice to have - Include charts/graphs that have accessible time points to look at; i.e., 3, 6 months to 1 year back
+
+  ## Interview 9:
+
+  **Summary**: This tool would be very useful to see what the community is investing in rather than the hedge funds or large sharks. The best apps for these types of situations are the ones that will fill your oder, capture your portfolio, show your returns, the purpose of the funds, etc. If this can be accomplished with this app, then it would be very useful to even experienced stock users.
+
+  **Interviewer:** Joshua Heinz
+  **Interviewee:** Richard Schreiber
+  **When:** 9/21/2022
+  **Consumer Segments:** Experienced Trader
+
+  **Key Insights**
+  - Transparancy is the most important thing
+  - Community Driven
+  - Visually Pleasing
+
+**Representative Quotes**
+- Talking about transparancy: "Very important, financial literacy is tough to come by as information is
+convoluted. A lot of impressionable young people will see a ton of get rich quick schemes like how some
+guru turned 1,000 dollars into 1,000,000 on the beaches of fiji. And now they want to share this
+information with you because they are very kind. The reality is, if they had a trading staretgy of merit
+they’d leverage that 1 million and turn it into 100 million then 1 billion etc. If one wants to become
+financially literate, id recommend reading books rather than checking the internet."
+
+- "To be honest, I don’t really care what hedge funds or large sharks are investing
+in, maybe they can point to bubble before it pops, or they can keep a stock at bay through the lending
+market."
+
+- "I don’t invest in any individual equities but rather ETFs with certain
+profiles to accomplish different goals. I.e VOO is looking for large cap Growth, vs VGI give me total stock
+domestic."
+
+**Hypotheses that were validated**
+- Transparancy is the #1 concern
+- Community is important
+- Visuality of it is needed
+
+**Assesment**
+- Must be visually appealing and easy to use
+- Must be based around community rather than huge businesses
+- Must have news about every stock involved
   
 ## Question 4
