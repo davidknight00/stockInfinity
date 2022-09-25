@@ -234,10 +234,9 @@ share prices.
 since it's a simple project, is Current holdings, current holding value, change for today, 
 last up to second price of stock, see in dollar and % for all categories. ( robinhood ) Try to connect the why with the change. Not only good stuff.
 
-
-**Interviewer:** Preston Lee
-**Interviewee:** Robert E. Lee
-**When:** 9/22/2022
+**Interviewer:** Preston Lee\
+**Interviewee:** Robert E. Lee\
+**When:** 9/22/2022\
 **Consumer Segments:** Head of Product, User Authentication and Identity - Snap Inc. 
                        Hasn't shorted stocks or anything at that level, but everything 
                        below that level. 6-7/10
