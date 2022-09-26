@@ -19,15 +19,15 @@ having to sift through unnecessary information. This application will offer hone
 information with the user's best interest being the highest priority, share holders and executives
 have no say in the information that is provided to the user.
 
-Initial Customer Segment: 
-  College Students
-  Homeowners
-  Parents
-  Beginner Investors
-  Intermediate Investors
-  Hobbiest Investors
-  Expert Financial Consultants/Advisors
-  Mechanical Engineer
+**Initial Customer Segments:** 
+  - College Students
+  - Homeowners
+  - Parents
+  - Beginner Investors
+  - Intermediate Investors
+  - Hobbiest Investors
+  - Expert Financial Consultants/Advisors
+  - Mechanical Engineer
 
 ## 3. Interview Summaries
 
@@ -312,5 +312,13 @@ domestic."
 - Must be based around community rather than huge businesses
 - Must have news about every stock involved
   
-## Question 4
+## 4. Final value proposition and consumer segments:
 
+**Final Value Proposition:** A simple, honest, and comprehensive application that allows users to view
+information on their preferred stocks without having to sift through unnecessary information
+or worry about conflicting interests of share holders affecting their access to information.
+
+**Consumer Segments:**
+- College Students 
+- Beginner Investors 
+- Intermediate Investors
