@@ -1,4 +1,10 @@
-# Template to get directory
+# Requirements
+
+Group 01 - "[Stock Infinity]"
+Date: October 2nd, 2022
+Group Members: Joshua Heinz, David Knight, Jack Shanley, Alex Poole, Preston Lee, Nate Chan
+
+
 ## 1. Positioning
 
 ### Problem Statement 1.1
@@ -16,8 +22,43 @@ For those who need honest and uncluttered information about their favorite stock
 A simple, honest, and comprehensive application that allows both novice and expert investors to view information on their preferred stocks without having to sift through unnecessary information or worry about conflicting interests of shareholders affecting their access to information.
 
 
-### 6.2. Use Case Descriptions
+## 2. Stakeholders
 
+
+
+## 3. Functional requirements
+
+
+
+
+## 4. Non-functional requirements
+
+**Function Stability** - The App/Website should be running 100% of the time, hyperlinks and buttons should constantly be working once the website is launched.
+
+**Performance Efficiency** - The App/Website should run smoothly. 8/10 users will enjoy the website’s smoothness and ability to be upheld.
+
+**Compatibility** - The App/Website will be cross compatible with all devices. 100% of users will be able to access from all devices that can search for websites.
+
+**Usability** - The App/Website will be easily accessible and pleasing to the user. 8/10 users will be happy with the setup of the site.
+
+**Reliability** - The website will be frequently updated to ensure it’s always reliable. The website should be up 100% of the time once launched.
+
+**Security** - The website will have a login entry to ensure security. 9/10 users will never have security issues.
+
+**Maintainability** - The website will be easy to access, navigate, and will be updated frequently to keep up to date on the best software available. 8/10 users will be able to navigate our website with ease.
+
+**Portability** - App/Website should be able to be used on all devices including mobile. 100% of users will be able to access from all devices.
+
+
+
+## 5. MVP
+
+
+
+## 6. Use Cases
+
+
+### 6.2. Use Case Descriptions
 
 **Use Case**: Download App
 **Actor**: Investor (app user)
@@ -72,9 +113,34 @@ A simple, honest, and comprehensive application that allows both novice and expe
 **Alternative Flow**:
 None.
 
-# 7. User Stories
 
-**User Story 1**: "As a finance professional, I want to have access to the trading volume and market cap for a stock so that I can help my clients make informed financial decisions."
 
-**User Story 2**: "As a college student, I want to have an easy and approachable interface so that I can check my stock information quickly and efficiently."
+## 7. User stories
 
+**User Story 1**: "As a frequent stock trader, I want a built community so that I’m trading with peers rather than sharks."
+
+**User Story 2**: "As a new stock trader, I want a visually appealing interface so that I can get into trading without having to rely on apps that look bad."
+
+**User Story 3**: "As a long term stock trader, I want to view these stocks over a period of time so that I can monitor my investments since the time I purchased them."
+
+**User Story 4**: "As a beginner trader, I want to be able to receive notifications on my favorite stocks so that I can easily monitor them in one location."
+
+**User Story 5**: "As a long time stock trader, I want to be able to connect the change in a stock with a reason from a news article so I can understand the full picture. ( Both positive and negative changes )"
+
+**User Story 6**: "As a long time stock trader, I want to be able to match up data with prior trends so I can have a somewhat accurate estimate of where the stock can go in the future. ( linked with article reasoning )"
+
+**User Story 7**: "As a finance professional, I want to have access to the trading volume and market cap for a stock so that I can help my clients make informed financial decisions."
+
+**User Story 8**: As a college student, I want to have an easy and approachable interface so that I can check my stock information quickly and efficiently."
+
+**User Story 9**:  “As a beginner trader, I want to have the ability to set a filter for how often I receive notifications so that I’m not not being bombarded with information.”
+
+**User Story 10**: “As an experienced trader, I want to be able to see relevant information about the stock such as it’s market cap and price to earning ratio (P/E ratio) so that I can get an insight on what stocks I’m looking to track”
+
+**User Story 11**:
+
+**User Story 12**:
+
+
+
+## 8. Github Issues
