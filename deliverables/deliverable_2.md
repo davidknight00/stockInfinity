@@ -65,18 +65,18 @@ A simple, honest, and comprehensive application that allows both novice and expe
 **Description**: A smartphone user will download the “Stock Infinity” app to sign up for the service.\
 **Preconditions**: They own a smartphone.\
 **Postconditions**: They have the app and have created an account.\
-**Main Flow**:\
+**Main Flow**:
 1. The actor logs into the Google Play store and downloads “Stock Infinity”.
 2. After installation, the user opens the app, and follows the steps to create an account.
 **Alternative Flow**:
 3. We create a web app, users will access the app via a link.
 
 
-**Use Case**: Receive Push Notifications
-**Actor**: Investor (app user)
-**Description**: The user will receive price notifications on their phone.
-**Preconditions**: The user has downloaded the “Stock Infinity” app and created an account.
-**Postconditions**: The user is now receiving basic non customized notifications.
+**Use Case**: Receive Push Notifications\
+**Actor**: Investor (app user)\
+**Description**: The user will receive price notifications on their phone.\
+**Preconditions**: The user has downloaded the “Stock Infinity” app and created an account.\
+**Postconditions**: The user is now receiving basic non customized notifications.\
 **Main Flow**:
 1. After downloading the app, the user gives their phone permissions to send the phone notifications.
 **Alternative Flow**:
@@ -85,11 +85,11 @@ A simple, honest, and comprehensive application that allows both novice and expe
 4. If they do not follow step 2, then they will not be able to use the service. Permission must be given to the phone.
 
 
-**Use Case**: Customize Notification Type
-**Actor**: Investor (app user)
-**Description**: The user can select the types of price notifications they want to receive.
-**Preconditions**: The user has either signed up via the “Stock Infinity” app or the web app.
-**Postconditions**: The user is not only receiving notifications, but notifications that they customize.
+**Use Case**: Customize Notification Type\
+**Actor**: Investor (app user)\
+**Description**: The user can select the types of price notifications they want to receive.\
+**Preconditions**: The user has either signed up via the “Stock Infinity” app or the web app.\
+**Postconditions**: The user is not only receiving notifications, but notifications that they customize.\
 **Main Flow**:
 1. The user logs into the application on their phone.
 2. They open the setting that allows them to select and deselect the types of notifications they want to receive.
@@ -102,11 +102,11 @@ A simple, honest, and comprehensive application that allows both novice and expe
 7. The user does not change any settings regarding what kind of information they want to receive, and will continue to receive the default price notifications.
 
 
-**Use Case**: Stay Informed Of Price Changes
-**Actor**: Investor (app user)
-**Description**: The end result, which is that the user receives notifications that help them stay informed of price updates of their preferred stocks.
-**Preconditions**: The user has either signed up for “Stock Infinity” via the web app to receive notifications, used the “Stock Infinity” app to sign up, or both.
-**Postconditions**: The user will be receiving notifications that let them stay up to date on price updates.
+**Use Case**: Stay Informed Of Price Changes\
+**Actor**: Investor (app user)\
+**Description**: The end result, which is that the user receives notifications that help them stay informed of price updates of their preferred stocks.\
+**Preconditions**: The user has either signed up for “Stock Infinity” via the web app to receive notifications, used the “Stock Infinity” app to sign up, or both.\
+**Postconditions**: The user will be receiving notifications that let them stay up to date on price updates.\
 **Main Flow**:
 1. The user receives push notifications.
 2. They respond to the information as they desire.
