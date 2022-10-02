@@ -110,6 +110,7 @@ A simple, honest, and comprehensive application that allows both novice and expe
 **Main Flow**:
 1. The user receives push notifications.
 2. They respond to the information as they desire.
+
 **Alternative Flow**:
 None.
 
