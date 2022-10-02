@@ -60,12 +60,12 @@ A simple, honest, and comprehensive application that allows both novice and expe
 
 ### 6.2. Use Case Descriptions
 
-**Use Case**: Download App
-**Actor**: Investor (app user)
-**Description**: A smartphone user will download the “Stock Infinity” app to sign up for the service.
-**Preconditions**: They own a smartphone.
-**Postconditions**: They have the app and have created an account.
-**Main Flow**:
+**Use Case**: Download App\
+**Actor**: Investor (app user)\
+**Description**: A smartphone user will download the “Stock Infinity” app to sign up for the service.\
+**Preconditions**: They own a smartphone.\
+**Postconditions**: They have the app and have created an account.\
+**Main Flow**:\
 1. The actor logs into the Google Play store and downloads “Stock Infinity”.
 2. After installation, the user opens the app, and follows the steps to create an account.
 **Alternative Flow**:
