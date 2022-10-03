@@ -1,7 +1,7 @@
 # Requirements
 
-Group 01 - "[Stock Infinity]"\
-Date: October 2nd, 2022\
+Group 01 - "[Stock Infinity]"
+Date: October 2nd, 2022
 Group Members: Joshua Heinz, David Knight, Jack Shanley, Alex Poole, Preston Lee, Nate Chan
 
 
@@ -52,8 +52,7 @@ A simple, honest, and comprehensive application that allows both novice and expe
 
 
 ## 5. MVP
-
-
+Designing a minimum viable product for a stock tracker app will require only the necessary functionality while still satisfying the requirements for this product. Firstly, an app icon and name will be established.  As for a user interface, the app will have a basic set of features our whole app is based around. The features that will be included are the following: a search bar where investors will search for stocks, the ability to favorite a stock and add it to your list of stocks being tracked, a filter to set at what price jump and/or decrease to be notified at, and a place to view the users favorited stocks and their relative data. These basic features will be the foundation to validating our product. To achieve this we will conduct user studies in which the users will test our MVP for a few days. In these few days they will eventually search for a few desired stocks to track, favorite them, set their preferred notification settings, and then proceed to evaluate whether the stock updates given were helpful with monitoring their favorite stocks by performing a survey after their usage. The feedback for our MVP will allow us to get a better understanding of the value of our product and benefit us in creating the most optimal stock tracker app. 
 
 ## 6. Use Cases
 
@@ -111,10 +110,21 @@ A simple, honest, and comprehensive application that allows both novice and expe
 1. The user receives push notifications.
 2. They respond to the information as they desire.
 
+**Use Case**: Expand Stock Info\
+**Actor**: (app user)\
+**Description**: The user will have the ability to expand the information of the stock their viewing.\
+**Preconditions**: The user has access to the Stock Infinity application and has signed up for the app; allowing them the ability to search for stocks and view info about it.\
+**Postconditions**: The user will be able to view more information about the stock they are currently tracking.\
+**Main Flow**:
+1. The user will log into the Stock Infinity application from the web platform or the mobile platform.
+2. The user will navigate to the search function provided by the application.
+3. The user will search for the stock that they want to read about.
+4. The information regarding the stock will be presented to the user.
+5. The user will select the “expand information” feature.
+6. More information will be displayed to the user.
+
 **Alternative Flow**:
 None.
-
-
 
 ## 7. User stories
 
