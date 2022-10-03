@@ -57,7 +57,7 @@ Designing a minimum viable product for a stock tracker app will require only the
 ## 6. Use Cases
 
 ### 6.1. Use Case Diagrams
-[Stock Infinity Use Case Diagram](./deliverable_images/Stock_Infinity_Use_Case_Diagram.png)
+[](./deliverable_images/Stock_Infinity_Use_Case_Diagram.png)
 
 ### 6.2. Use Case Descriptions
 
