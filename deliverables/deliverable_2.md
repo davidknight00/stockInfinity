@@ -86,15 +86,15 @@ Designing a minimum viable product for a stock tracker app will require only the
 4. If they do not follow step 2, then they will not be able to use the service. Permission must be given to the phone.
 
 
-**Use Case**: Customize Notification Type\
+**Use Case**: Customize Notification Type/Update Price Notifications\
 **Actor**: Investor (app user)\
-**Description**: The user can select the types of price notifications they want to receive.\
-**Preconditions**: The user has either signed up via the “Stock Infinity” app or the web app.\
-**Postconditions**: The user is not only receiving notifications, but notifications that they customize.\
+**Description**: The user can select the types of price notifications they want to receive. The end result, which is that the user receives notifications that help them stay informed of price updates of their preferred stocks.\
+**Preconditions**: The user has either signed up for “Stock Infinity” via the web app to receive notifications, used the “Stock Infinity” app to sign up, or both.\
+**Postconditions**: The user is not only receiving notifications, but notifications that they customize that can help them stay up to date on price updates.\
 **Main Flow**:
 1. The user logs into the application on their phone.
 2. They open the setting that allows them to select and deselect the types of notifications they want to receive.
-3. They go through the list and customize what notifications they want to receive.
+3. They go through the list and customize what notifications they want to receive. With price update notifications, users can determine the change in price that causes a notification.
 **Alternative Flow**:
 4. The user logs into their account online via the web app.
 5. They open the setting that allows them to select and deselect the types of notifications they want to receive.
@@ -102,15 +102,6 @@ Designing a minimum viable product for a stock tracker app will require only the
 **Alternative Flow**:
 7. The user does not change any settings regarding what kind of information they want to receive, and will continue to receive the default price notifications.
 
-
-**Use Case**: Stay Informed Of Price Changes\
-**Actor**: Investor (app user)\
-**Description**: The end result, which is that the user receives notifications that help them stay informed of price updates of their preferred stocks.\
-**Preconditions**: The user has either signed up for “Stock Infinity” via the web app to receive notifications, used the “Stock Infinity” app to sign up, or both.\
-**Postconditions**: The user will be receiving notifications that let them stay up to date on price updates.\
-**Main Flow**:
-1. The user receives push notifications.
-2. They respond to the information as they desire.
 
 **Use Case**: Expand Stock Info\
 **Actor**: (app user)\
@@ -149,6 +140,7 @@ None.
 3. If the investor is on the main screen already and presses the home screen again, or just started the app, the path is wiped.
 Since the path is wiped, the back button would be unresponsive. 
  
+ 
 **Use Case**: Search
 **Actor**: Investor
 **Description**: The investor would be able to look up different stocks to choose from based on name, or other heuristics as deemed fit from the survey. 
@@ -159,6 +151,7 @@ Since the path is wiped, the back button would be unresponsive.
 2. The investor can now interact with the stocks presented
 **Alternate flow**:
 3. The investor searches for something that isn’t known and is greeted by a can’t be found screen.
+
 
 **Use Case**: Survey Input
 **Actor**: Account Linked
