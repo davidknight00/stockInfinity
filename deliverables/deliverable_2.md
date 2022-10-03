@@ -1,7 +1,7 @@
 # Requirements
 
-Group 01 - "[Stock Infinity]"
-Date: October 2nd, 2022
+Group 01 - "[Stock Infinity]"\
+Date: October 2nd, 2022\
 Group Members: Joshua Heinz, David Knight, Jack Shanley, Alex Poole, Preston Lee, Nate Chan
 
 
