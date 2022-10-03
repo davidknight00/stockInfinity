@@ -28,7 +28,22 @@ A simple, honest, and comprehensive application that allows both novice and expe
 
 ## 3. Functional requirements
 
-
+- Display percentage difference notifications to the user.
+- Display updated stock price information.
+- Provide news based on the category of each stock.
+- Update stock information frequently to keep information accurate.
+- The system needs to have user friendly graphics.
+- The system needs to have a user friendly organization.
+- The system needs to be accessible to all users.
+- The system UI needs to have an inviting color palette.
+- The system UI needs to promote transparency of the information to the user.
+- The system needs a user to have an optional account created, in order for its notification functionality to work correctly.
+- The system needs a user to have an optional account created, in order for bookmarked stocks to be linked to the user.
+- The system needs to be able to have a search feature that allows for ease of use in regards to identifying specific stocks.
+- The system should respond to errors with an error page.
+- The error page should reflect what went wrong with the application.
+- The error page should not be jarring to the user experience.
+- If the error is on the user’s end, provide simple instructions on how to remedy the issue.
 
 
 ## 4. Non-functional requirements
@@ -119,6 +134,20 @@ Designing a minimum viable product for a stock tracker app will require only the
 **Alternative Flow**:
 None.
 
+
+**Use Case**: Bookmark a desired stock\
+**Actor**: Investor (app user)\
+**Description**: The user will bookmark a desired stock to easily reference in the future.\
+**Preconditions**: The user has access to the Stock Infinity application. The user has either signed up for “Stock Infinity” via the web app to receive notifications, used the “Stock Infinity” app to sign up, or both.\
+**Postconditions**: The user will have the desired stock saved to their account profile, making finding that stock again much simpler.\
+**Main Flow**:
+1. The user will log into the Stock Infinity application from the web platform or the mobile platform.
+2. The user will navigate to the search function provided by the application.
+3. The user will search for the stock that they desire bookmarking.
+4. The information regarding the stock will be presented to the user.
+5. The user will select the bookmarking icon to save it to their account profile.
+
+
 **Use Case**: Home Button
 **Actor**: Investor
 **Description**: The investor would be able to go directly back to the main screen regardless of current location. 
@@ -127,6 +156,7 @@ None.
 **Main Flow**:
 1. The investor starts on the main screen, and goes to another in depth tab, however far in.
 2. The investor presses the home button to conveniently get back to the main screen
+
 
 **Use Case**: Back Button
 **Actor**: Investor
@@ -164,6 +194,7 @@ Since the path is wiped, the back button would be unresponsive.
 **Alternate flow**:
 3. The linked account denies the short survey and gets returned to wherever they were.
 
+**![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.png)**
 
 ## 7. User stories
 
@@ -188,9 +219,10 @@ Since the path is wiped, the back button would be unresponsive.
 **User Story 10**: “As an experienced trader, I want to be able to see relevant information about the stock such as it’s market cap and price to earning ratio (P/E ratio) so that I can get an insight on what stocks I’m looking to track”
 
 **User Story 11**:
+"As a finance major, I want the information that I am viewing to be easy to understand, so that I can start from the basics and grow my knowledge of the stock market."
 
 **User Story 12**:
-
+"As a socially ethical stock trader, I want the ability to be able to find information regarding particular companies with publicly traded stocks, so that I can make informed decisions about where I invest my money."
 
 
 ## 8. Github Issues
