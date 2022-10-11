@@ -76,21 +76,9 @@ Designing a minimum viable product for a stock tracker app will require only the
 ## 6. Use Cases
 
 ### 6.1. Use Case Diagrams
-**![Stock Infinity Use Case Diagram](./deliverable_images/Stock_Infinity_Use_Case_Diagram.png)**
+**![Stock Infinity Use Case Diagram](./deliverable_images/D2UseCaseDiagram10_10_22.png)**
 
 ### 6.2. Use Case Descriptions
-
-**Use Case**: Download App\
-**Actor**: Investor (app user)\
-**Description**: A smartphone user will download the “Stock Infinity” app to sign up for the service.\
-**Preconditions**: They own a smartphone.\
-**Postconditions**: They have the app and have created an account.\
-**Main Flow**:
-1. The actor logs into the Google Play store and downloads “Stock Infinity”.
-2. After installation, the user opens the app, and follows the steps to create an account.
-**Alternative Flow**:
-3. We create a web app, users will access the app via a link.
-
 
 **Use Case**: Receive Push Notifications\
 **Actor**: Investor (app user)\
