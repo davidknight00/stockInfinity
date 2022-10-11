@@ -23,11 +23,10 @@ A simple, honest, and comprehensive application that allows both novice and expe
 
 
 ## 2. Stakeholders
-**Stockholders:** Investors of all experience levels and college students looking for information on stocks.\
+**Users:** Investors of all experience levels and college students looking for information on stocks.\
 **Competitors:** Robinhood, Stock Exchanges\
 **Detractors:** People are worried that there may be too much information and overload beginner investors. Another concern is that the information will have a slight bias or provide too little information.\
 **Developers:** Jack Shanley, David Knight, Joshua Heinz, Alex Poole, Preston Lee, Nate Chan\
-
 
 
 ## 3. Functional requirements
@@ -80,25 +79,14 @@ Designing a minimum viable product for a stock tracker app will require only the
 
 ### 6.2. Use Case Descriptions
 
-**Use Case**: Download App\
-**Actor**: Investor (app user)\
-**Description**: A smartphone user will download the “Stock Infinity” app to sign up for the service.\
-**Preconditions**: They own a smartphone.\
-**Postconditions**: They have the app and have created an account.\
-**Main Flow**:
-1. The actor logs into the Google Play store and downloads “Stock Infinity”.
-2. After installation, the user opens the app, and follows the steps to create an account.
-**Alternative Flow**:
-3. We create a web app, users will access the app via a link.
-
-
 **Use Case**: Receive Push Notifications\
 **Actor**: Investor (app user)\
 **Description**: The user will receive price notifications on their phone.\
 **Preconditions**: The user has downloaded the “Stock Infinity” app and created an account.\
 **Postconditions**: The user is now receiving basic non customized notifications.\
 **Main Flow**:
-1. After downloading the app, the user gives their phone permissions to send the phone notifications.
+1. The user goes to settings and gives the app permission to send notifications.
+2. The app will begin sending notifications.
 **Alternative Flow**:
 2. The user does not give their phone permission to send them notifications.
 3. They must open their settings, go to the notifications settings page, and then allow the phone to give them notifications.
@@ -111,12 +99,12 @@ Designing a minimum viable product for a stock tracker app will require only the
 **Preconditions**: The user has either signed up for “Stock Infinity” via the web app to receive notifications, used the “Stock Infinity” app to sign up, or both.\
 **Postconditions**: The user is not only receiving notifications, but notifications that they customize that can help them stay up to date on price updates.\
 **Main Flow**:
-1. The user logs into the application on their phone.
-2. They open the setting that allows them to select and deselect the types of notifications they want to receive.
+1. The user logs into the application on their device.
+2. They open the app's user settings.
 3. They go through the list and customize what notifications they want to receive. With price update notifications, users can determine the change in price that causes a notification.
 **Alternative Flow**:
 4. The user logs into their account online via the web app.
-5. They open the setting that allows them to select and deselect the types of notifications they want to receive.
+5. They open the user settings that allows them to select and deselect the types of notifications they want to receive.
 6. They go through the list and customize what notifications they want to receive.
 **Alternative Flow**:
 7. The user does not change any settings regarding what kind of information they want to receive, and will continue to receive the default price notifications.
@@ -134,8 +122,7 @@ Designing a minimum viable product for a stock tracker app will require only the
 4. The information regarding the stock will be presented to the user.
 5. The user will select the “expand information” feature.
 6. More information will be displayed to the user.
-
-**Alternative Flow**:
+**Alternative Flow**:\
 None.
 
 
@@ -152,11 +139,11 @@ None.
 5. The user will select the bookmarking icon to save it to their account profile.
 
 
-**Use Case**: Create an account
-**Actor**: User
-**Description**: The user will create an account on our website or application  
-**Preconditions**: The user will have access to our website or application to reach our sign up site.
-**Postconditions**: The user will have an account with all the features available to users with an account.
+**Use Case**: Create an account\
+**Actor**: User\
+**Description**: The user will create an account on our website or application\  
+**Preconditions**: The user will have access to our website or application to reach our sign up site.\
+**Postconditions**: The user will have an account with all the features available to users with an account.\
 **Main Flow**:
 1. The user will go to our website and sign up for an account 
 2. The system will take in all the information needed to make an account and register the user.
@@ -169,11 +156,11 @@ None.
 5. The system will redirect the user to the app home page
 
  
-**Use Case**: Search
-**Actor**: User
-**Description**: The user would be able to look up different stocks to choose from based on name, or other heuristics as deemed fit from the survey. 
-**Preconditions**: The user has access to the Stock Infinity application via app or web. 
-**Postconditions**: The user would have a list of stocks to look further into.
+**Use Case**: Search\
+**Actor**: Investor\
+**Description**: The investor would be able to look up different stocks to choose from based on name, or other heuristics as deemed fit from the survey.\
+**Preconditions**: The investor has access to the Stock Infinity application via app or web.\
+**Postconditions**: The investor would have a list of stocks to look further into.\
 **Main Flow**:
 1. The user searches by some heuristic.
 2. The user can now interact with the stocks presented
@@ -181,18 +168,18 @@ None.
 3. The user searches for something that isn’t known and is greeted by a can’t be found screen.
 
 
-**Use Case**: Survey Input
-**Actor**: Account Linked
-**Description**: The Linked Account would be able to give feedback to the developers on what they feel is missing, or if something should be changed. 
-**Preconditions**: The investor has access to the Stock Infinity application via app or web, and the investor is using a linked account. 
-**Postconditions**: The linked account would have put their input in on what could be done to better the application.
+**Use Case**: Survey Input\
+**Actor**: Account Linked\
+**Description**: The Linked Account would be able to give feedback to the developers on what they feel is missing, or if something should be changed.\
+**Preconditions**: The investor has access to the Stock Infinity application via app or web, and the investor is using a linked account.\
+**Postconditions**: The linked account would have put their input in on what could be done to better the application.\
 **Main Flow**:
 1. The linked account has used the application for a while and is prompted to answer a short optional survey and accepts the invite.
 2. The linked account puts their feedback in and it gets sent to the developers/ stored
 **Alternate flow**:
 3. The linked account denies the short survey and gets returned to wherever they were.
 
-**![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.png)**
+**![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.jpg)**
 
 ## 7. User stories
 
