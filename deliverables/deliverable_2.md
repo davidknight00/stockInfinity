@@ -198,7 +198,7 @@ Since the path is wiped, the back button would be unresponsive.
 **Alternate flow**:
 3. The linked account denies the short survey and gets returned to wherever they were.
 
-**![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.png)**
+**![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.jpg)**
 
 ## 7. User stories
 
