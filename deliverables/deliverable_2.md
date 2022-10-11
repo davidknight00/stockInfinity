@@ -140,11 +140,11 @@ None.
 5. The user will select the bookmarking icon to save it to their account profile.
 
  
-**Use Case**: Search
-**Actor**: Investor
-**Description**: The investor would be able to look up different stocks to choose from based on name, or other heuristics as deemed fit from the survey. 
-**Preconditions**: The investor has access to the Stock Infinity application via app or web. 
-**Postconditions**: The investor would have a list of stocks to look further into.
+**Use Case**: Search\
+**Actor**: Investor\
+**Description**: The investor would be able to look up different stocks to choose from based on name, or other heuristics as deemed fit from the survey.\
+**Preconditions**: The investor has access to the Stock Infinity application via app or web.\
+**Postconditions**: The investor would have a list of stocks to look further into.\
 **Main Flow**:
 1. The investor searches by some heuristic.
 2. The investor can now interact with the stocks presented
@@ -152,11 +152,11 @@ None.
 3. The investor searches for something that isn’t known and is greeted by a can’t be found screen.
 
 
-**Use Case**: Survey Input
-**Actor**: Account Linked
-**Description**: The Linked Account would be able to give feedback to the developers on what they feel is missing, or if something should be changed. 
-**Preconditions**: The investor has access to the Stock Infinity application via app or web, and the investor is using a linked account. 
-**Postconditions**: The linked account would have put their input in on what could be done to better the application.
+**Use Case**: Survey Input\
+**Actor**: Account Linked\
+**Description**: The Linked Account would be able to give feedback to the developers on what they feel is missing, or if something should be changed.\
+**Preconditions**: The investor has access to the Stock Infinity application via app or web, and the investor is using a linked account.\
+**Postconditions**: The linked account would have put their input in on what could be done to better the application.\
 **Main Flow**:
 1. The linked account has used the application for a while and is prompted to answer a short optional survey and accepts the invite.
 2. The linked account puts their feedback in and it gets sent to the developers/ stored
