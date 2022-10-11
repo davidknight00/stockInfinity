@@ -122,6 +122,7 @@ Designing a minimum viable product for a stock tracker app will require only the
 4. The information regarding the stock will be presented to the user.
 5. The user will select the “expand information” feature.
 6. More information will be displayed to the user.
+
 **Alternative Flow**:\
 None.
 
