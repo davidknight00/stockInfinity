@@ -23,7 +23,7 @@ A simple, honest, and comprehensive application that allows both novice and expe
 
 
 ## 2. Stakeholders
-**Stockholders:** Investors of all experience levels and college students looking for information on stocks.\
+**Users:** Investors of all experience levels and college students looking for information on stocks.\
 **Competitors:** Robinhood, Stock Exchanges\
 **Detractors:** People are worried that there may be too much information and overload beginner investors. Another concern is that the information will have a slight bias or provide too little information.\
 **Developers:** Jack Shanley, David Knight, Joshua Heinz, Alex Poole, Preston Lee, Nate Chan\
