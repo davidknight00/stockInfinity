@@ -76,7 +76,7 @@ Designing a minimum viable product for a stock tracker app will require only the
 ## 6. Use Cases
 
 ### 6.1. Use Case Diagrams
-**![Stock Infinity Use Case Diagram](./deliverable_images/D2UseCaseDiagram10_10_22.png)**
+**![Stock Infinity Use Case Diagram](./deliverable_images/D2UseCaseDiagram10_10_22.drawio.png)**
 
 ### 6.2. Use Case Descriptions
 
@@ -187,19 +187,6 @@ Since the path is wiped, the back button would be unresponsive.
 3. The linked account denies the short survey and gets returned to wherever they were.
 
 **![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.png)**
-
-
-**Use Case**: Sign Into Account
-**Actor**: App/Web User
-**Description**: The App/Web User will be able to sign into their account.
-**Preconditions**: The investor has access to the Stock Infinity application via app or web, and the investor is using a linked account. 
-**Postconditions**: The user would be signed into their linked account
-**Main Flow**:
-1. The user inputs account info.
-2. The server takes in data and compares.
-3. The server linkes to account.
-**Alternate flow**:
-4. The data the server compares in #2 is denied and brings back to begining with an error.
 
 
 
