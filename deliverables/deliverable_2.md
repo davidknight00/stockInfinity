@@ -152,39 +152,33 @@ None.
 5. The user will select the bookmarking icon to save it to their account profile.
 
 
-**Use Case**: Home Button
-**Actor**: Investor
-**Description**: The investor would be able to go directly back to the main screen regardless of current location. 
-**Preconditions**: The investor has access to the Stock Infinity application via app or web. 
-**Postconditions**: The investor would be back at the main screen where their stock list is.
+**Use Case**: Create an account
+**Actor**: User
+**Description**: The user will create an account on our website or application  
+**Preconditions**: The user will have access to our website or application to reach our sign up site.
+**Postconditions**: The user will have an account with all the features available to users with an account.
 **Main Flow**:
-1. The investor starts on the main screen, and goes to another in depth tab, however far in.
-2. The investor presses the home button to conveniently get back to the main screen
+1. The user will go to our website and sign up for an account 
+2. The system will take in all the information needed to make an account and register the user.
+3. The system will redirect the user to the website home page
+**Alternative Flow** 
+1. The user will download our application and open our app
+2. The system will show our app landing page
+3. The user will sign up for an account 
+4. The system will take in all the information needed to make an account and register the user.
+5. The system will redirect the user to the app home page
 
-
-**Use Case**: Back Button
-**Actor**: Investor
-**Description**: The investor would be able to go back to the screen before to prevent the hassle of restarting their current path from the main screen.
-**Preconditions**: The investor has access to the Stock Infinity application via app or web. 
-**Postconditions**: The investor would be back on the screen before.
-**Main Flow**:
-1. The investor starts on any screen and goes to another in depth tab.
-2. The investor presses the back button to conveniently get back to the screen prior.
-**Alternative Flow**:
-3. If the investor is on the main screen already and presses the home screen again, or just started the app, the path is wiped.
-Since the path is wiped, the back button would be unresponsive. 
- 
  
 **Use Case**: Search
-**Actor**: Investor
-**Description**: The investor would be able to look up different stocks to choose from based on name, or other heuristics as deemed fit from the survey. 
-**Preconditions**: The investor has access to the Stock Infinity application via app or web. 
-**Postconditions**: The investor would have a list of stocks to look further into.
+**Actor**: User
+**Description**: The user would be able to look up different stocks to choose from based on name, or other heuristics as deemed fit from the survey. 
+**Preconditions**: The user has access to the Stock Infinity application via app or web. 
+**Postconditions**: The user would have a list of stocks to look further into.
 **Main Flow**:
-1. The investor searches by some heuristic.
-2. The investor can now interact with the stocks presented
+1. The user searches by some heuristic.
+2. The user can now interact with the stocks presented
 **Alternate flow**:
-3. The investor searches for something that isn’t known and is greeted by a can’t be found screen.
+3. The user searches for something that isn’t known and is greeted by a can’t be found screen.
 
 
 **Use Case**: Survey Input
