@@ -188,6 +188,21 @@ Since the path is wiped, the back button would be unresponsive.
 
 **![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.png)**
 
+
+**Use Case**: Sign Into Account
+**Actor**: App/Web User
+**Description**: The App/Web User will be able to sign into their account.
+**Preconditions**: The investor has access to the Stock Infinity application via app or web, and the investor is using a linked account. 
+**Postconditions**: The user would be signed into their linked account
+**Main Flow**:
+1. The user inputs account info.
+2. The server takes in data and compares.
+3. The server linkes to account.
+**Alternate flow**:
+4. The data the server compares in #2 is denied and brings back to begining with an error.
+
+
+
 ## 7. User stories
 
 **User Story 1**: "As a frequent stock trader, I want a built community so that I’m trading with peers rather than sharks."
