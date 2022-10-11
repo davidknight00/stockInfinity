@@ -98,7 +98,7 @@ Designing a minimum viable product for a stock tracker app will require only the
 **Preconditions**: The user has downloaded the “Stock Infinity” app and created an account.\
 **Postconditions**: The user is now receiving basic non customized notifications.\
 **Main Flow**:
-1. After downloading the app, the user gives their phone permissions to send the phone notifications.
+1. The user goes to settings and gives the app permission to send notifications, the app will begin sending notifications.
 **Alternative Flow**:
 2. The user does not give their phone permission to send them notifications.
 3. They must open their settings, go to the notifications settings page, and then allow the phone to give them notifications.
