@@ -29,7 +29,6 @@ A simple, honest, and comprehensive application that allows both novice and expe
 **Developers:** Jack Shanley, David Knight, Joshua Heinz, Alex Poole, Preston Lee, Nate Chan\
 
 
-
 ## 3. Functional requirements
 
 - Display percentage difference notifications to the user.
@@ -80,18 +79,6 @@ Designing a minimum viable product for a stock tracker app will require only the
 
 ### 6.2. Use Case Descriptions
 
-**Use Case**: Download App\
-**Actor**: Investor (app user)\
-**Description**: A smartphone user will download the “Stock Infinity” app to sign up for the service.\
-**Preconditions**: They own a smartphone.\
-**Postconditions**: They have the app and have created an account.\
-**Main Flow**:
-1. The actor logs into the Google Play store and downloads “Stock Infinity”.
-2. After installation, the user opens the app, and follows the steps to create an account.
-**Alternative Flow**:
-3. We create a web app, users will access the app via a link.
-
-
 **Use Case**: Receive Push Notifications\
 **Actor**: Investor (app user)\
 **Description**: The user will receive price notifications on their phone.\
@@ -111,12 +98,12 @@ Designing a minimum viable product for a stock tracker app will require only the
 **Preconditions**: The user has either signed up for “Stock Infinity” via the web app to receive notifications, used the “Stock Infinity” app to sign up, or both.\
 **Postconditions**: The user is not only receiving notifications, but notifications that they customize that can help them stay up to date on price updates.\
 **Main Flow**:
-1. The user logs into the application on their phone.
-2. They open the setting that allows them to select and deselect the types of notifications they want to receive.
+1. The user logs into the application on their device.
+2. They open the app's user settings.
 3. They go through the list and customize what notifications they want to receive. With price update notifications, users can determine the change in price that causes a notification.
 **Alternative Flow**:
 4. The user logs into their account online via the web app.
-5. They open the setting that allows them to select and deselect the types of notifications they want to receive.
+5. They open the user settings that allows them to select and deselect the types of notifications they want to receive.
 6. They go through the list and customize what notifications they want to receive.
 **Alternative Flow**:
 7. The user does not change any settings regarding what kind of information they want to receive, and will continue to receive the default price notifications.
@@ -151,29 +138,6 @@ None.
 4. The information regarding the stock will be presented to the user.
 5. The user will select the bookmarking icon to save it to their account profile.
 
-
-**Use Case**: Home Button
-**Actor**: Investor
-**Description**: The investor would be able to go directly back to the main screen regardless of current location. 
-**Preconditions**: The investor has access to the Stock Infinity application via app or web. 
-**Postconditions**: The investor would be back at the main screen where their stock list is.
-**Main Flow**:
-1. The investor starts on the main screen, and goes to another in depth tab, however far in.
-2. The investor presses the home button to conveniently get back to the main screen
-
-
-**Use Case**: Back Button
-**Actor**: Investor
-**Description**: The investor would be able to go back to the screen before to prevent the hassle of restarting their current path from the main screen.
-**Preconditions**: The investor has access to the Stock Infinity application via app or web. 
-**Postconditions**: The investor would be back on the screen before.
-**Main Flow**:
-1. The investor starts on any screen and goes to another in depth tab.
-2. The investor presses the back button to conveniently get back to the screen prior.
-**Alternative Flow**:
-3. If the investor is on the main screen already and presses the home screen again, or just started the app, the path is wiped.
-Since the path is wiped, the back button would be unresponsive. 
- 
  
 **Use Case**: Search
 **Actor**: Investor
