@@ -170,9 +170,9 @@ Since the path is wiped, the back button would be unresponsive.
 **Postconditions**: The investor would have a list of stocks to look further into.
 **Main Flow**:
 1. The investor searches by some heuristic.
-2. The investor can now interact with the stocks presented
+2. The server provides a list of stocks based on the said heuristic.
 **Alternate flow**:
-3. The investor searches for something that isn’t known and is greeted by a can’t be found screen.
+3. The server searches for something that isn’t known and returns the can’t be found screen.
 
 
 **Use Case**: Survey Input
@@ -182,7 +182,7 @@ Since the path is wiped, the back button would be unresponsive.
 **Postconditions**: The linked account would have put their input in on what could be done to better the application.
 **Main Flow**:
 1. The linked account has used the application for a while and is prompted to answer a short optional survey and accepts the invite.
-2. The linked account puts their feedback in and it gets sent to the developers/ stored
+2. The server puts their feedback in and it gets sent to the developers/ stored
 **Alternate flow**:
 3. The linked account denies the short survey and gets returned to wherever they were.
 
