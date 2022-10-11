@@ -75,7 +75,7 @@ Designing a minimum viable product for a stock tracker app will require only the
 ## 6. Use Cases
 
 ### 6.1. Use Case Diagrams
-**![Stock Infinity Use Case Diagram](./deliverable_images/Stock_Infinity_Use_Case_Diagram.png)**
+**![Stock Infinity Use Case Diagram](./deliverable_images/D2UseCaseDiagram10_10_22.drawio.png)**
 
 ### 6.2. Use Case Descriptions
 
@@ -164,9 +164,9 @@ None.
 **Postconditions**: The investor would have a list of stocks to look further into.\
 **Main Flow**:
 1. The user searches by some heuristic.
-2. The user can now interact with the stocks presented
+2. The server provides a list of stocks based on the said heuristic.
 **Alternate flow**:
-3. The user searches for something that isn’t known and is greeted by a can’t be found screen.
+3. The server searches for something that isn’t known and returns the can’t be found screen.
 
 
 **Use Case**: Survey Input\
@@ -176,11 +176,13 @@ None.
 **Postconditions**: The linked account would have put their input in on what could be done to better the application.\
 **Main Flow**:
 1. The linked account has used the application for a while and is prompted to answer a short optional survey and accepts the invite.
-2. The linked account puts their feedback in and it gets sent to the developers/ stored
+2. The server puts their feedback in and it gets sent to the developers/ stored
 **Alternate flow**:
 3. The linked account denies the short survey and gets returned to wherever they were.
 
 **![Stock Infinity Use Case Diagram](./deliverable_images/UseCaseUI.jpg)**
+
+
 
 ## 7. User stories
 
