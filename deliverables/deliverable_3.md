@@ -16,4 +16,4 @@ The **UI** will feature a simple layout with minimal screen changes. There will 
 
 
 ## 2. Model
-**![Stock Infinity Use Case Diagram](./deliverables/deliverable_images/D3 Case Diagram.drawio.png)**
+**![Stock Infinity Use Case Diagram](./deliverable_images/D3CaseDiagram.drawio.png)**
