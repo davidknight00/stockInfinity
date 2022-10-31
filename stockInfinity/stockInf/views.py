@@ -10,7 +10,7 @@ def account(request):
     return render(request, 'account.html')
 
 def search(request):
-    apikey = 'N4T0OWXY9YCO81EI'
+    apikey = 'HIDDENinPRODUCTION'
     form = TickerForm()
 
     if request.method == 'POST':
