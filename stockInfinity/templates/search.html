@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block title %}Search{% endblock %}
+
+{% block content %}
+    <form action="/search/" method="post">
+        {% csrf_token %}
+        {{form}}
+        <input type="submit" value="Submit">
+    </form>
+
+    <div class="stock-info">
+        <div class="card-deck">
+            <div class="card" style="min-width: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Name</h5>
+                    <hr>
+                    <p class="card-text">{{Name}}</p>
+                </div>
+            </div>
+
+            <div class="card" style="min-width: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Ticker</h5>
+                    <hr>
+                    <p class="card-text">{{Ticker}}</p>
+                </div>
+            </div>
+
+            <div class="card" style="min-width: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Industry</h5>
+                    <hr>
+                    <p class="card-text">{{Industry}}</p>
+                </div>
+            </div>
+
+            <div class="card" style="min-width: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Market Cap</h5>
+                    <hr>
+                    <p class="card-text">{{MarketCap}}</p>
+                </div>
+            </div>
+
+            <div class="card" style="min-width: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Yearly High</h5>
+                    <hr>
+                    <p class="card-text">{{YearlyHigh}}</p>
+                </div>
+            </div>
+
+            <div class="card" style="min-width: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Yearly Low</h5>
+                    <hr>
+                    <p class="card-text">{{YearlyLow}}</p>
+                </div>
+            </div>
+
+            <div class="card" style="min-width: 10rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Price/Earning Ratio</h5>
+                    <hr>
+                    <p class="card-info">{{PERatio}}</p>
+                </div>
+            </div>
+        </div>
+        <br><p class="font-weight-bold text-center">{{Description}}</p><br>
+    </div>
+{% endblock %}
+
+{% block searchLink %}"nav-item nav-link active"{% endblock %}
+

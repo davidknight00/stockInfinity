@@ -1,0 +1,16 @@
+.nav-container {
+    padding-top: 20px;
+}
+
+.nav {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.nav a:hover {
+    background-color: #cc6699;
+    color: black;
+}
+
