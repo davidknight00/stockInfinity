@@ -18,7 +18,7 @@ Installing the dependencies can be done as shown below:
 pip install -r requirements.txt
 ```
 
-And voila! Enjoy!
+The final step will be to get an API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
 
 ### Tests
 
