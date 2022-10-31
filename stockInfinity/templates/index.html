@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+<!--I can override any content I want, this means base.html should never be changed and only the content we want to override will change-->
+{% block content %}
+<h1>Welcome to Stock Infinity!</h1><br>
+<p><b>We are very happy for you to try our web app, please submit any and all bugs to our github found at <a href="https://github.com/davidknight00/finance_app">The link here</a></b></p>
+{% endblock %}
+
+{% block homeLink %}"nav-item nav-link active"{% endblock %}

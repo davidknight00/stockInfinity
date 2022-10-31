@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+<!--I can override any content I want, this means base.html should never be changed and only the content we want to override will change-->
+{% block title %}404{% endblock %}
+
+{% block content %}
+<h1 class="text-center">Uh oh!</h1><br>
+<p class="text-center">It looks like you are trying to access a page that doesnt exist :( No bueno. If you used the search make sure that the stock ticker is a valid one! Otherwise, <a href="/">click here to return home!</a><br><br>{{response_code}}</p>
+{% endblock %}
+
+{% block homeLink %}"nav-item nav-link active"{% endblock %}

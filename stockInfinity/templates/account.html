@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+<!--I can override any content I want, this means base.html should never be changed and only the content we want to override will change-->
+{% block title %}Account{% endblock %}
+
+{% block content %}
+<h1 class="heading-title">My Account</h1><br>
+<p class="text-center">Unfortunately, our account creation is not yet available at this time :( Thankfully, this means that all features are free to use regardless of account status as of now! Please accept that as our apology to you <3</p><br>
+{% endblock %}
+
+{% block accountLink %}"nav-item nav-link active"{% endblock %}
