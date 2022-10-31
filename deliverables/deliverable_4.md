@@ -37,13 +37,12 @@ https://github.com/davidknight00/finance_app
 
 ## 4. Adopted technologies
 
-- AWS and Ubuntu: AWS is on many job listings so knowing this technology would be advantageous.
-- Python: Python is an easy to read language that can connect to the API, be used in backend, and serve it all to the front end without the need to write much code.
-- Django: DJango is a web framework built in Python that aims to create the nessesary stucture so that we as developers can focus on the development of the app.
-- Jinja: Jinja is a templating language that allows us to insert python code into HTML.
-- mySQL: This database allows us to create and keep track of unique users.
-- uWSGI: TODO: add reason
-- Nginx: TODO: add reason
+- **Python**: Python is an easy to read language that can connect to the API, be used in backend, and serve it all to the front end without the need to write much code.
+- **Django**: DJango is a web framework built in Python that aims to create the nessesary stucture so that we as developers can focus on the development of the app.
+- **Jinja**: Jinja is a templating language that allows us to insert python code into HTML.
+- **mySQL**: This database allows us to create and keep track of unique users.
+- **uWSGI**: TODO: add reason
+- **Nginx**: TODO: add reason
 
 ## 5. Learning/training
 
