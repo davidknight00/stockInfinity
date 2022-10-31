@@ -6,12 +6,23 @@ https://github.com/davidknight00/finance_app
 
 ## 2. Implemented requirements
 **ToDo ex**<br />
-_Requirement: As a Student, I want to add a homework assignment so that I can organize my ToDo list.<br />
-Issue: link to your Trello or GitHub issue <br />
-Pull request: https://github.com/user/project/pull/426<br />
-Implemented by: Martin Fowler<br />
-Approved by: Ada Lovelace<br />
-Print screen: A print screen that depicts the implemented feature (if applicable)_<br />
+_Requirement: As an experienced trader, I want to be able to see relevant information about the stock such as it’s market cap and price to earning ratio (P/E ratio) so that I can get an insight on what stocks I’m looking to track.<br />
+Issue: https://github.com/davidknight00/finance_app/issues/33 AND https://github.com/davidknight00/finance_app/issues/31 <br />
+Pull request: https://github.com/davidknight00/finance_app/pull/51<br />
+Implemented by: Jack Shanley, Nate Chan, and Preston Lee<br />
+Approved by: David Knight<br />
+
+_Requirement: As a new stock trader, I want a visually appealing interface so that I can get into trading without having to rely on apps that look bad.<br />
+Issue: https://github.com/davidknight00/finance_app/issues/24<br />
+Pull request: https://github.com/davidknight00/finance_app/pull/51<br />
+Implemented by: Alex Poole, David Knight, and Josh Heinz<br />
+Approved by: Jack Shanley<br />
+
+_Requirement: As a socially ethical stock trader, I want the ability to be able to find information regarding particular companies with publicly traded stocks, so that I can make informed decisions about where I invest my money.<br />
+Issue: https://github.com/davidknight00/finance_app/issues/29<br />
+Pull request: https://github.com/davidknight00/finance_app/pull/51<br />
+Implemented by: Alex Poole, Jack Shanley, Josh Heinz, and Nate Chan<br />
+Approved by: David Knight<br />
 
 
 ## 3. Tests
