@@ -15,9 +15,20 @@
         <!--Our Style-->
         <link rel="stylesheet" href="{% static 'stockInf/style.css' %}">
 
-        <title>Stock Infinity | {% block title %}Home{% endblock %}</title>
+        <title>StockInfinity | {% block title %}Home{% endblock %}</title>
     </head>
     <body>
+        <div class="top-banner">
+            <h1>StockInfinity</h1>
+            <div class="top-banner-right">
+                {% if user.is_authenticated %}
+                <a id="logout" href={% url 'logout' %}>Logout</a>
+                {% else %}
+                <a id="login" href={% url 'login' %}>Login</a>
+                {% endif %}
+            </div>
+        </div>
+
         <div class="container">
             {% block content %}
             {% endblock %}
@@ -27,7 +38,7 @@
             <nav class="nav nav-pills nav-fill justify-content-center">
                 <a class={% block homeLink %}"nav-item nav-link"{% endblock %} id="home" href="/">Home</a>
                 <a class={% block searchLink %}"nav-item nav-link"{% endblock %} id="search" href="/search">Search</a>
-                <a class={% block accountLink %}"nav-item nav-link"{% endblock %} id="account" href="/account">Account</a>
+                <a class={% block accountLink %}"nav-item nav-link"{% endblock %} id="account" href="/accounts">Account</a>
             </nav>
         </div>
 

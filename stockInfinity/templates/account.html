@@ -5,7 +5,12 @@
 
 {% block content %}
 <h1 class="heading-title">My Account</h1><br>
-<p class="text-center">Unfortunately, our account creation is not yet available at this time :( Thankfully, this means that all features are free to use regardless of account status as of now! Please accept that as our apology to you <3</p><br>
+{% if user.is_authenticated %}
+<a id="logout" href={% url 'logout' %}>Logout</a>
+{% else %}
+<a id="login" href={% url 'login' %}>Login</a>
+<a id="signup" href={% url 'signup' %}>Create An Account</a>
+{% endif %}
 {% endblock %}
 
 {% block accountLink %}"nav-item nav-link active"{% endblock %}
