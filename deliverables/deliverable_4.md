@@ -28,8 +28,7 @@ https://github.com/davidknight00/finance_app
 
 ## 3. Tests
 
-**Test Framework**: pytest
-**ToDo ex**<br />
+**Test Framework**: DJango unittest
 **Link** to your GitHub folder where your automated unit tests are located._<br />
 **An example** of a test case. Include in your answer a GitHub link to the class being tested and to the test._<br />
 **A print** screen showing the result of the automated tests execution._
