@@ -83,4 +83,4 @@ During our interviews we found that it’s very common for stock related apps to
 Overall, we didn't realize how intensive it would be to make so many pulls just to make one graph, let alone multiple. This, along with making a non-static page proved to be unforeseen problems that largely stunted the beginning phase of this project. We would have had more success if we had a smaller MVP, as our MVP seems closer to a finished product than minimum.
 
 ## 11. Demo
-~~link to video~~
+Link to video: [here](https://youtube.com/shorts/mbZx9SqsiXA?feature=share)
