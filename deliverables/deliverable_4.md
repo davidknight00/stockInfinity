@@ -1,4 +1,4 @@
-# implementation 1
+# Implementation 1
 
 ## 1. Introduction
 
@@ -29,30 +29,29 @@ https://github.com/davidknight00/finance_app
 ## 3. Tests
 
 **Test Framework**: DJango unittest
-**Link** to your GitHub folder where your automated unit tests are located._<br />
-**An example** of a test case. Include in your answer a GitHub link to the class being tested and to the test._<br />
-**A print** screen showing the result of the automated tests execution._
+See our unit testing [here](https://github.com/davidknight00/finance_app/tree/D4/stockInfinity/stockInf/tests) \
+An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/finance_app/blob/D4/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/finance_app/blob/D4/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
+
+**![StockInfinity unit test](./deliverable_images/unittest_samplerun.png)**
 
 
 ## 4. Adopted technologies
 
-- **Python**: Python is an easy to read language that can connect to the API, be used in backend, and serve it all to the front end without the need to write much code.
+- **Python**: Python is an easy to read language that can connect to the API, be used in backend, and serve it all to the front end without the need to write much code. By using Python with the Jinja templating language, we can change the views of html based on user validation, the type of request made by the user, 
 - **Django**: DJango is a web framework built in Python that aims to create the nessesary stucture so that we as developers can focus on the development of the app.
 - **Jinja**: Jinja is a templating language that allows us to insert python code into HTML.
-- **mySQL**: This database allows us to create and keep track of unique users.
-- **uWSGI**: TODO: add reason
-- **Nginx**: TODO: add reason
+- **SQLite**: This database allows us to keep track of stocks that users have favorited.
 
 ## 5. Learning/training
 
-We have people who are good at each, which will allow each member to teach the rest of the team how to develop these adopted technologies. We originally tried a paired programming style for implementing the MVP. The reason we felt we could apply this strategy was because we felt that if we split the work and left it to people to stick to deadlines, one person being late would cause everyone to be late. By meeting at the library, we were able to implement parts of our MVP working together to implement each core peace we felt needed to be there based on the user stories. We felt that based on our strengths, in the coming weeks we should implement team based development but we do not need to do paired programming to be successful now that we have a minimum viable product to look at. Our Front End will work with HTML, CSS, Jinja, while our Back End will work with Python, DJango, and SQL.
+We have people who are good at each, which will allow each member to teach the rest of the team how to develop these adopted technologies. All of us have familiarity with Python which was a great start for us. In order to learn DJango, we felt it would be best if two to three people worked on the initial start of the web app by watching a video and reading the documentation provided by DJango to get a very basic template going. From that point we were able to explain it to the other group members and get everyone caught up. Jinja was the easiest of the technologies to learn as we just needed to add curly braces and python code inside of our html to get it working.
+
+We originally tried a paired programming style for implementing the MVP. The reason we felt we could apply this strategy was because we felt that if we split the work and left it to people to stick to deadlines, one person being late would cause everyone to be late. By meeting at the library, we were able to implement parts of our MVP working together to implement each core peace we felt needed to be there based on the user stories. We felt that based on our strengths, in the coming weeks we should implement team based development but we do not need to do paired programming to be successful now that we have a minimum viable product to look at. Our Front End will work with HTML, CSS, Jinja, while our Back End will work with Python, DJango, and SQLite.
 
 
 ## 6. Deployment
 
-**ToDo David**<br />
-Provide a link for the system in production and describe how you are deploying your system.
-AWS?
+Unfortuneatly, at the time of turning this deliverable in, we failed to deploy the web app for the world to see. We hope to have this working by our next implementation.
 
 ## 7. Licensing
 
@@ -74,6 +73,10 @@ AWS?
 ## 9. Look & feel
 
 During our interviews we found that it’s very common for stock related apps to bombard users with information. We also deemed that our consumer segments mainly consisted of beginner to intermediate investors so we want to be able to stick to an incomplex look and feel. Overall we want StockInfinity to have a clean and simple UI. By implementing a simple design this will make the app more intuitive for users.
+
+**![StockInfinity unit test](./deliverable_images/stockInfinity_homescreen.png)**
+**![StockInfinity unit test](./deliverable_images/stockInfinity_search.png)**
+**![StockInfinity unit test](./deliverable_images/stockInfinity_account.png)**
 
 ## 10. Lessons learned
 
