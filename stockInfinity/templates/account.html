@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+<!--I can override any content I want, this means base.html should never be changed and only the content we want to override will change-->
+{% block title %}Account{% endblock %}
+
+{% block content %}
+<h1 class="heading-title">My Account</h1><br>
+{% if user.is_authenticated %}
+<a id="logout" href={% url 'logout' %}>Logout</a>
+{% else %}
+<a id="login" href={% url 'login' %}>Login</a>
+<a id="signup" href={% url 'signup' %}>Create An Account</a>
+{% endif %}
+{% endblock %}
+
+{% block accountLink %}"nav-item nav-link active"{% endblock %}
