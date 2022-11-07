@@ -17,7 +17,7 @@ https://github.com/davidknight00/finance_app
 **Issue**: https://github.com/davidknight00/finance_app/issues/24<br />
 **Pull request**: https://github.com/davidknight00/finance_app/pull/51 \
 **Implemented by**: Alex Poole, David Knight, and Josh Heinz \
-**Approved** by: Jack Shanley \
+**Approved** by: Jack Shanley 
 
 **Requirement**: As a socially ethical stock trader, I want the ability to be able to find information regarding particular companies with publicly traded stocks, so that I can make informed decisions about where I invest my money. \
 **Issue**: https://github.com/davidknight00/finance_app/issues/29 \
