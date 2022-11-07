@@ -74,9 +74,9 @@ Unfortuneatly, at the time of turning this deliverable in, we failed to deploy t
 
 During our interviews we found that it’s very common for stock related apps to bombard users with information. We also deemed that our consumer segments mainly consisted of beginner to intermediate investors so we want to be able to stick to an incomplex look and feel. Overall we want StockInfinity to have a clean and simple UI. By implementing a simple design this will make the app more intuitive for users.
 
-**![StockInfinity unit test](./deliverable_images/stockInfinity_homescreen.png)**
-**![StockInfinity unit test](./deliverable_images/stockInfinity_search.png)**
-**![StockInfinity unit test](./deliverable_images/stockInfinity_account.png)**
+**![StockInfinity Home Screen](./deliverable_images/stockInfinity-homescreen.png)**
+**![StockInfinity Search Screen](./deliverable_images/stockInfinity-search.png)**
+**![StockInfinity Account Screen](./deliverable_images/stockInfinity-account.png)**
 
 ## 10. Lessons learned
 
