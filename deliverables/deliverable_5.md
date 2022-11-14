@@ -34,4 +34,13 @@ None
 
 ## 5. Design Patterns
 
+For each subsection, present a UML class diagrams showing the application of a design pattern to your system (a different pattern for each section).
+
+A) Strategy Pattern (Behavioral): We use a strategy pattern to view stocks in different ways, depending on user preferences:
+
+![StockInfinity Strategy Pattern](./deliverable_images/StratPat.jpg)**
+
+
+
+
 ## 6. Design Principles
