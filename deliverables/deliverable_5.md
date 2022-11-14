@@ -18,9 +18,19 @@ Our architechture contains 3 main layers. The first layer is the User Interface 
 
 ## 4. Sequence Diagram
 
-This sequence diagram contains multiple use cases for our program. To go deeper into one of them, Viewing a Particular Stock has been shown in this diagram. Specifically it is shown what steps are taken to get to that use case. The diagram also notes that the User will access a stock's Information Page from the Main Page. When viewing a stock, the User will be able to see a compilation of information including the Stock's ticker, the Company Name, the Market Cap, the Yearly High/Low, as well as the Price/Earnings Ratio. 
-
 **![StockInfinity Sequence Diagram](./deliverable_images/D5Question4.jpg)**
+
+**Use Case**: Create an account\
+**Actor**: User\
+**Description**: The user will create an account on our website.\  
+**Preconditions**: The user will have access to our website to reach our sign up site.\
+**Postconditions**: The user will have an account with all the features available to users with an account.\
+**Main Flow**:
+1. The user will go to our website and sign up for an account 
+2. The system will take in all the information needed to make an account and register the user.
+3. The system will redirect the user to the website home page
+**Alternative Flow** 
+None
 
 ## 5. Design Patterns
 
