@@ -142,7 +142,7 @@ None.
 
 **Use Case**: Create an account\
 **Actor**: User\
-**Description**: The user will create an account on our website or application\  
+**Description**: The user will create an account on our website or application.\
 **Preconditions**: The user will have access to our website or application to reach our sign up site.\
 **Postconditions**: The user will have an account with all the features available to users with an account.\
 **Main Flow**:
