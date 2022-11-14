@@ -10,6 +10,10 @@ Project repo: [Github link to StockInfinity](https://github.com/davidknight00/fi
 
 ## 2. Architecture
 
+Our architechture contains 3 main layers. The first layer is the User Interface which consists of 3 main targets: our web page, an iOS app, and an Android app. Currently, we only have a focus on our web app which requires DJango. The iOS app and Android app will require another engine to run, but can use the web app as the API for the interface. The second layer consists of our backend logic. The Accounts Views relies on the django authentication library to encrypt user passwords and protect their information from any malicious attacks. This determines which screen the user will see when creating an account, logging in or out, and resetting their password. The StockInf Views features the main content of searching for and viewing information on a publically traded U.S. stock. The final layer contains all of the stored data on user accounts and the stocks that they have favorited, as well as the information about the stocks that they have favorited.
+
+**![Stock Infinity Use Case Diagram](./deliverable_images/architechture.jpg)**
+
 ## 3. Class Diagram
 
 ## 4. Sequence Diagram
