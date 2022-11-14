@@ -48,3 +48,26 @@ None
 **![StockInfinity Observer Pattern (Behavioral) Diagram](./deliverable_images/ObserverPattern.png)**
 
 ## 6. Design Principles
+**![Figure 1.](./deliverable_images/ObserverPattern.png)**
+
+**![Figure 2.](./deliverable_images/StratPat.jpg)**
+
+**Single Responsibility Principle** (a class should only have a single responsibility)
+
+This class see Figure 1.) represents the single responsibility principle because the only responsibility of the class StockViewer, is to view stocks, using the method viewStock()
+
+**Open-Closed Principle** (Objects or entities should be open for extension but closed for modification)
+
+The notificationObserver class (see Figure 1.) is able to represent the open-closed principle because it focuses on the object that is notifications and extends to the different types of notifications such as a price increase or decrease notification. 
+
+**Liskov Substitution Principle** (every subclass or derived class should be substitutable for their base or parent class)
+
+For this case, it is possible to replace Stock Viewer (see Figure 2.) with Viewable Stock or Favorite Stock. The substitution will not have an immediate negative effect on the program.
+ 
+**Interface Segregation Principle** (A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use)
+
+Our notification viewer class (see Figure 2.) is able to meet the interface segregation design principle because we were able to implent this without any other class effecting it’s functionality and the client will not be forced to use methods they don’t need to when the notification viewer is being utilized.
+
+**Dependency Inversion Principle** (Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions)
+
+The notification viewer class (see Figure 2.) we implemented follows the dependency inversion principle because the viewing of a stock relies on the abstraction of how that stock information will be fetched and displayed to the user. 
