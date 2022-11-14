@@ -34,5 +34,6 @@ Our architechture contains 3 main layers. The first layer is the User Interface 
 None
 
 ## 5. Design Patterns
-**![StockInfinity Observer Pattern (Behavioral) Diagram](./deliverable_images/ObserverPattern.jpg)**
+**![StockInfinity Observer Pattern (Behavioral) Diagram](./deliverable_images/ObserverPattern.png)**
+
 ## 6. Design Principles
