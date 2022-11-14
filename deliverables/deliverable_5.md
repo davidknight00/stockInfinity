@@ -18,6 +18,10 @@ Our architechture contains 3 main layers. The first layer is the User Interface 
 
 ## 4. Sequence Diagram
 
+This sequence diagram contains multiple use cases for our program. To go deeper into one of them, Viewing a Particular Stock has been shown in this diagram. Specifically it is shown what steps are taken to get to that use case. The diagram also notes that the User will access a stock's Information Page from the Main Page. When viewing a stock, the User will be able to see a compilation of information including the Stock's ticker, the Company Name, the Market Cap, the Yearly High/Low, as well as the Price/Earnings Ratio. 
+
+**![StockInfinity Sequence Diagram](./deliverable_images/D5Question4.jpg)**
+
 ## 5. Design Patterns
 
 ## 6. Design Principles
