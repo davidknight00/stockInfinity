@@ -17,6 +17,7 @@ Our architechture contains 3 main layers. The first layer is the User Interface 
 ## 3. Class Diagram
 
 No type declarations as it's in python
+
 **![StockInfinity Architecture Diagram](./deliverable_images/D5ClassDiagram.jpg)**
 
 ## 4. Sequence Diagram
