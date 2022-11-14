@@ -50,11 +50,11 @@ None
 ## 6. Design Principles
 **![Figure 1.](./deliverable_images/ObserverPattern.png)**
 
-**![Figure 2.](./deliverable_images/StratPat.jpg)**
+**![Figure 2.](./deliverable_images/StratPat.JPG)**
 
 **Single Responsibility Principle** (a class should only have a single responsibility)
 
-This class see Figure 1.) represents the single responsibility principle because the only responsibility of the class StockViewer, is to view stocks, using the method viewStock()
+This class see Figure 1.) represents the single :responsibility principle because the only responsibility of the class StockViewer, is to view stocks, using the method viewStock()
 
 **Open-Closed Principle** (Objects or entities should be open for extension but closed for modification)
 
