@@ -146,15 +146,16 @@ None.
 **Preconditions**: The user will have access to our website or application to reach our sign up site.\
 **Postconditions**: The user will have an account with all the features available to users with an account.\
 **Main Flow**:
-1. The user will go to our website and sign up for an account 
+1. The user will go to our website and sign up for an account.
 2. The system will take in all the information needed to make an account and register the user.
-3. The system will redirect the user to the website home page
-**Alternative Flow** 
-1. The user will download our application and open our app
-2. The system will show our app landing page
-3. The user will sign up for an account 
+3. The system will redirect the user to the website home page.
+
+**Alternative Flow**:
+1. The user will download our application and open our app.
+2. The system will show our app landing page.
+3. The user will sign up for an account.
 4. The system will take in all the information needed to make an account and register the user.
-5. The system will redirect the user to the app home page
+5. The system will redirect the user to the app home page.
 
  
 **Use Case**: Search\
