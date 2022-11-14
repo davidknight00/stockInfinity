@@ -29,6 +29,7 @@ Our architechture contains 3 main layers. The first layer is the User Interface 
 1. The user will go to our website and sign up for an account.
 2. The system will take in all the information needed to make an account and register the user.
 3. The system will redirect the user to the website home page.\
+
 **Alternative Flow**:
 None
 
