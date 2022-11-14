@@ -22,13 +22,13 @@ Our architechture contains 3 main layers. The first layer is the User Interface 
 
 **Use Case**: Create an account\
 **Actor**: User\
-**Description**: The user will create an account on our website. \  
+**Description**: The user will create an account on our website.\
 **Preconditions**: The user will have access to our website to reach our sign up site.\
 **Postconditions**: The user will have an account with all the features available to users with an account.\
 **Main Flow**:
 1. The user will go to our website and sign up for an account.
 2. The system will take in all the information needed to make an account and register the user.
-3. The system will redirect the user to the website home page.
+3. The system will redirect the user to the website home page.\
 **Alternative Flow**:
 None
 
