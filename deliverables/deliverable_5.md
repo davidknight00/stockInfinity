@@ -48,9 +48,11 @@ None
 **![StockInfinity Observer Pattern (Behavioral) Diagram](./deliverable_images/ObserverPattern.png)**
 
 ## 6. Design Principles
-**![Figure 1.](./deliverable_images/ObserverPattern.png)**
+**Figure 1.**
+**![Figure 1.](./deliverable_images/StratPat.JPG)**
 
-**![Figure 2.](./deliverable_images/StratPat.JPG)**
+**Figure 2.**
+**![Figure 2.](./deliverable_images/ObserverPattern.png)**
 
 **Single Responsibility Principle** (a class should only have a single responsibility)
 
