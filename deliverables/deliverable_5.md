@@ -38,7 +38,7 @@ For each subsection, present a UML class diagrams showing the application of a d
 
 A) Strategy Pattern (Behavioral): We use a strategy pattern to view stocks in different ways, depending on user preferences:
 
-![StockInfinity Strategy Pattern](./deliverable_images/StratPat.jpg)**
+**![StockInfinity Strategy Pattern](./deliverable_images/StratPat.JPG)**
 
 
 
