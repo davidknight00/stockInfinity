@@ -34,15 +34,13 @@ Our architechture contains 3 main layers. The first layer is the User Interface 
 None
 
 ## 5. Design Patterns
-**![StockInfinity Observer Pattern (Behavioral) Diagram](./deliverable_images/ObserverPattern.png)**
-
-For each subsection, present a UML class diagrams showing the application of a design pattern to your system (a different pattern for each section).
 
 A) Strategy Pattern (Behavioral): We use a strategy pattern to view stocks in different ways, depending on user preferences:
 
 **![StockInfinity Strategy Pattern](./deliverable_images/StratPat.JPG)**
 
+B) Observer Pattern (Behavioral): We used the observer pattern to determine the type of notification being sent to the user:
 
-
+**![StockInfinity Observer Pattern (Behavioral) Diagram](./deliverable_images/ObserverPattern.png)**
 
 ## 6. Design Principles
