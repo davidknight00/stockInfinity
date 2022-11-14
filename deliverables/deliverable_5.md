@@ -39,11 +39,11 @@ None
 
 ## 5. Design Patterns
 
-A) Strategy Pattern (Behavioral): We use a strategy pattern to view stocks in different ways, depending on user preferences:
+**A)** Strategy Pattern (Behavioral): We use a strategy pattern to view stocks in different ways, depending on user preferences:
 
 **![StockInfinity Strategy Pattern](./deliverable_images/StratPat.JPG)**
 
-B) Observer Pattern (Behavioral): We used the observer pattern to determine the type of notification being sent to the user:
+**B)** Observer Pattern (Behavioral): We used the observer pattern to determine the type of notification being sent to the user:
 
 **![StockInfinity Observer Pattern (Behavioral) Diagram](./deliverable_images/ObserverPattern.png)**
 
