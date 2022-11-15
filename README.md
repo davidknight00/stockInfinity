@@ -22,7 +22,7 @@ The final step will be to get an API key from [Alpha Vantage](https://www.alphav
 
 ### Tests
 
-Unit testing can be done with the following commands:
+Unit testing can be done with the following command:
 
 ```
 python3 manage.py test stockInf
