@@ -29,8 +29,8 @@ https://github.com/davidknight00/finance_app
 ## 3. Tests
 
 **Test Framework**: DJango unittest
-See our unit testing [here](https://github.com/davidknight00/finance_app/tree/D4/stockInfinity/stockInf/tests) \
-An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/finance_app/blob/D4/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/finance_app/blob/D4/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
+See our unit testing [here](https://github.com/davidknight00/finance_app/tree/master/stockInfinity/stockInf/tests) \
+An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
 
 **![StockInfinity unit test](./deliverable_images/unittest_samplerun.png)**
 
