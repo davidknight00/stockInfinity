@@ -25,7 +25,7 @@ The final step will be to get an API key from [Alpha Vantage](https://www.alphav
 Unit testing can be done with the following commands:
 
 ```
-insert command here when done
+python3 manage.py test stockInf
 ```
 
 ## Deployment
