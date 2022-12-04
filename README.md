@@ -18,7 +18,7 @@ Installing the dependencies can be done as shown below:
 pip install -r requirements.txt
 ```
 
-The final step will be to get an API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
+After getting an API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key), you will need to insert the API key into the `stockInfinity/stockInf/views.py` file. 
 
 ### Tests
 
