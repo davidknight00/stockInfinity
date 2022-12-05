@@ -9,11 +9,24 @@ While StockInfinity is still in its early development stages, our web applicatio
 Project repo: [Github link to StockInfinity](https://github.com/davidknight00/finance_app)
 
 ## 2. Implemented Requirements
+**Requirement**: As a long time stock trader, I want to be able to connect the change in a stock with a reason from a news article so I can understand the full picture. \
+**Issue**: https://github.com/davidknight00/finance_app/issues/33 AND https://github.com/davidknight00/finance_app/issues/30 \
+**Pull request**: https://github.com/davidknight00/finance_app/pull/51 \
+**Implemented by**: David Knight, Jack Shanley, Nate Chan \
+**Approved by**: Alex Poole
 
 ## 3. Tests
+**Test Framework**: DJango unittest \
+See our tests [here](https://github.com/davidknight00/finance_app/tree/master/stockInfinity/stockInf/tests) \
+An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
+
+**![StockInfinity unit test](./deliverable_images/unittest_samplerun.png)**
 
 ## 4. Demo
+Link to video: [here](https://youtube.com/shorts/mbZx9SqsiXA?feature=share)
 
 ## 5. Code Quality
+We adopted the PEP8 Style Guide. The full guide can be seen [here](https://peps.python.org/pep-0008/). Using the `pycodestyle` library, we are able to ensure the code that we right is complient to the current style guide for Python. 
 
 ## 6. Lessons Learned
+After the last implementation, we got a majority of the app built. The last step was making sure we made the web app look good so formatting was a big focus. We also wasnted the relevant stories to be implemented so useres can make connections to price changes. We learned this time that we should take less on and make sure that we do it right instead of doing a lot of work poorly.
