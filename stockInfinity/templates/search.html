@@ -68,6 +68,22 @@
             </div>
         </div>
         <br><p class="font-weight-bold text-center">{{Description}}</p><br>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">What's New?</h5>
+                <hr>
+
+                {% if empty_news == True %}
+                <p class="card-info">Sorry, we could not find any recent/relevant information on this stock</p>
+                {% else %}
+                <p class="card-info">
+                    <a href={{LinkOne}}>{{TitleOne}}</a><br><br>
+                    <a href={{LinkTwo}}>{{TitleTwo}}</a><br><br>
+                    <a href={{LinkThree}}>{{TitleThree}}</a>
+                </p>
+                {% endif %}
+            </div>
+        </div>
     </div>
 {% endblock %}
 
