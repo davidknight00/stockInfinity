@@ -11,7 +11,7 @@ Project repo: [Github link to StockInfinity](https://github.com/davidknight00/fi
 ## 2. Implemented Requirements
 **Requirement**: As a long time stock trader, I want to be able to connect the change in a stock with a reason from a news article so I can understand the full picture. \
 **Issue**: https://github.com/davidknight00/finance_app/issues/30 \
-**Pull request**: https://github.com/davidknight00/finance_app/pull/51 \
+**Pull request**: https://github.com/davidknight00/finance_app/pull/65 \
 **Implemented by**: David Knight, Jack Shanley, Nate Chan \
 **Approved by**: Alex Poole
 
