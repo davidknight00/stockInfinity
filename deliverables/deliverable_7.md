@@ -12,7 +12,19 @@ Project repo: [Github link to StockInfinity](https://github.com/davidknight00/fi
 
 ### 2.1 Unit Test
 
+#### 2.1.1
+We used unittest, a built in library for Python to conduct our unit testing. 
 
+#### 2.1.2
+View our unit tests [here](https://github.com/davidknight00/finance_app/tree/master/stockInfinity/stockInf/tests)
+
+#### 2.1.3
+[Example Unit Test Image]()
+Here we are testing our form class to ensure that the form returns a valid input for a known U.S. publically traded stock's ticker. You can find the class [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/forms.py)
+
+#### 2.1.4
+The result of running the unit test can be seen in the image below
+[Unit Test in Action]()
 
 ### 2.2 Acceptance Test
 
