@@ -20,19 +20,14 @@
     <body>
         <div class="top-banner">
             <h1>StockInfinity</h1>
-            <div class="top-banner-right">
-                {% if user.is_authenticated %}
-                <a id="logout" href={% url 'logout' %}>Logout</a>
-                {% else %}
-                <a id="login" href={% url 'login' %}>Login</a>
-                {% endif %}
-            </div>
         </div>
 
         <div class="container">
             {% block content %}
             {% endblock %}
         </div>
+
+        <br><br><hr><br>
 
         <div class=nav-container>
             <nav class="nav nav-pills nav-fill justify-content-center">
