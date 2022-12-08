@@ -27,7 +27,7 @@ class TestViews(TestCase):
         self.assertEquals(response.status_code, 200)
         self.assertTemplateUsed(response, 'search.html')
 
-    def test_seasrch_POST_failure(self):
+    def test_search_POST_failure(self):
         client = Client()
         response = client.post(reverse('search'), {'ticker': 'OMG'})
         self.assertEquals(response.status_code, 200)
