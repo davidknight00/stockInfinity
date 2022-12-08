@@ -39,6 +39,6 @@ Here we are testing our login feature by ensuring that the test user successfull
 
 #### 2.2.4
 The result of running the acceptance test can be seen in the image below:
-**![Acceptance Test Results](./deliverable_images/unittest_samplerun.png)**
+**![Acceptance Test Results](./deliverable_images/acceptanceTestResults.png)**
 
 ## 3. Validation/User Evaluation 
