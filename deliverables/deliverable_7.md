@@ -16,25 +16,46 @@ Project repo: [Github link to StockInfinity](https://github.com/davidknight00/fi
 We used unittest, a built in library for Python to conduct our unit testing. 
 
 #### 2.1.2
-View our unit tests [here](https://github.com/davidknight00/finance_app/tree/master/stockInfinity/stockInf/tests)
+View our unit tests [here](../stockInfinity/stockInf/tests)
 
 #### 2.1.3
 **![Example Unit Test Image](./deliverable_images/unit-test-example-d7.png)**
-Here we are testing our form class to ensure that the form returns a valid input for a known U.S. publically traded stock's ticker. You can find the class [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/forms.py) and test file [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/tests/test_forms.py#L4-L7)
+Here we are testing our form class to ensure that the form returns a valid input for a known U.S. publically traded stock's ticker. You can find the class [here](../stockInfinity/stockInf/forms.py) and test file [here](../stockInfinity/stockInf/tests/test_forms.py#L4-L7)
 
 #### 2.1.4
-The result of running the unit test can be seen in the image below
-**![Unit Test in Action](./deliverable_images/unittest_samplerun.png)**
+The result of running the unit tests can be seen in the image below:
+**![Unit Test Results](./deliverable_images/unittest_samplerun.png)**
 
 ### 2.2 Acceptance Test
 
 #### 2.2.1
-We used the Selenium framework
+We used the Selenium framework for Firefox and Chrome.
 
 #### 2.2.2
+View our acceptence tests [here](../stockInfinity/stockInf/tests/acceptance)
 
 #### 2.2.3
+Here we are testing our login feature by ensuring that the test user successfully logs in and logs out. Check out the test [here](../stockInfinity/stockInf/tests/acceptance/stockInfinityTests.side)
 
 #### 2.2.4
+The result of running the acceptance test can be seen in the image below:
+**![Acceptance Test Results](./deliverable_images/acceptanceTestResults.png)**
 
-## 3. Validation/User Evaluation 
+## 3. Validation/User Evaluation
+
+### Script
+**Q:** Look around and explore the different tabs on the bottom. How do you feel about the overall look of the app? What can be improved upon? \
+**Q:** Let's look at the search screen in depth, how do you feel about the presentation of a stock being present? Would you prefer a standard search screen before seeing stock information? \
+**Q:** How do you feel about the information presented in the search menu? Is there more information about the stocks that you want to see? \
+**Q:** How do you feel about the relevency of the stories? How do you feel about the quantity? Are there any changes that you wish to see? \
+**Q:** Do you have any suggestions to improve the app?
+
+### Results
+* The pages feels bare. There could be more content or even a logo of some kind. Overall the app is user-friendly and everything is easy to find.
+* Some were fine with the current stock being present on the first load. Others would prefer a dedicated screen for the first time you pull up search.
+* Overall the feedback was good on the information. It was displayed nicely but lacked a branding of sorts. More experienced traders wanted to see some type of graph to represent trading history. 
+* The stories seemed fine but some individuals would like the option to either load more stories, or have more stories than just 3 present. 
+* Some design suggestions releveant to branding were discussed but nothing as far as functionality outside of what was discussed.
+
+### Reflection
+Users who created an account were able to do so seamlessly. The screen to do so should be styled more but it serves its purpose for the first version. The search feature works well but users wanted to see a graph present in addition to the extra information. The users quickly found out about the 5 searches per minute limitation of the API even in our atempts to stall the users at times. They were not a big fan of this but were understanding of it. The system needs to have the requirements worked outas some users struggled to get it running locally. This seems to be due to a dependency error in the requirements.txt which has now been fixed.
