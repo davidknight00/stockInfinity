@@ -1,1 +1,137 @@
-
+{
+  "id": "f9b11a01-4817-42c6-8200-4a7174f9fa3c",
+  "version": "2.0",
+  "name": "stockInfinityTests",
+  "url": "http://127.0.0.1:8000",
+  "tests": [{
+    "id": "84195778-f124-4221-a0b8-adc387188b1e",
+    "name": "login",
+    "commands": [{
+      "id": "23df1332-2dc1-4fd9-b7e8-264a8beec4a3",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "54314011-4113-4a99-9d43-5622b91e9006",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "797x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a0c80166-7be8-48b1-996f-d6108ce9410e",
+      "comment": "",
+      "command": "click",
+      "target": "id=account",
+      "targets": [
+        ["id=account", "id"],
+        ["linkText=Account", "linkText"],
+        ["css=#account", "css:finder"],
+        ["xpath=//a[contains(text(),'Account')]", "xpath:link"],
+        ["xpath=//a[@id='account']", "xpath:attributes"],
+        ["xpath=//a[contains(@href, '/accounts')]", "xpath:href"],
+        ["xpath=//a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'Account')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fd8bfd8b-c014-40dd-b33f-7191157d8fc2",
+      "comment": "",
+      "command": "click",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["linkText=Login", "linkText"],
+        ["css=#login", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//a[@id='login']", "xpath:attributes"],
+        ["xpath=//a[contains(@href, '/accounts/login/')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "94512db1-6a5f-4497-9564-de1a9cff1eb8",
+      "comment": "",
+      "command": "type",
+      "target": "id=id_username",
+      "targets": [
+        ["id=id_username", "id"],
+        ["name=username", "name"],
+        ["css=#id_username", "css:finder"],
+        ["xpath=//input[@id='id_username']", "xpath:attributes"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": "testUser"
+    }, {
+      "id": "ae62a2e6-fb78-4aeb-86ee-c187a7bf5ec8",
+      "comment": "",
+      "command": "type",
+      "target": "id=id_password",
+      "targets": [
+        ["id=id_password", "id"],
+        ["name=password", "name"],
+        ["css=#id_password", "css:finder"],
+        ["xpath=//input[@id='id_password']", "xpath:attributes"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": "catinthehat"
+    }, {
+      "id": "4cf9b06f-1071-4a25-a8fe-53cdd1376dd4",
+      "comment": "",
+      "command": "click",
+      "target": "css=button",
+      "targets": [
+        ["css=button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Login')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6556652f-6e66-4874-8d71-9e4f40d3d535",
+      "comment": "",
+      "command": "click",
+      "target": "id=account",
+      "targets": [
+        ["id=account", "id"],
+        ["linkText=Account", "linkText"],
+        ["css=#account", "css:finder"],
+        ["xpath=//a[contains(text(),'Account')]", "xpath:link"],
+        ["xpath=//a[@id='account']", "xpath:attributes"],
+        ["xpath=//a[contains(@href, '/accounts')]", "xpath:href"],
+        ["xpath=//a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'Account')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a828d72c-c7b3-4235-8332-43cf5fdcec34",
+      "comment": "",
+      "command": "click",
+      "target": "id=logout",
+      "targets": [
+        ["id=logout", "id"],
+        ["linkText=Logout", "linkText"],
+        ["css=#logout", "css:finder"],
+        ["xpath=//a[contains(text(),'Logout')]", "xpath:link"],
+        ["xpath=//a[@id='logout']", "xpath:attributes"],
+        ["xpath=//a[contains(@href, '/accounts/logout/')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'Logout')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "2afde759-a307-47ff-bdcf-291e656f82d9",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://127.0.0.1:8000/"],
+  "plugins": []
+}
