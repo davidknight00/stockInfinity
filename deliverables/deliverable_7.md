@@ -23,18 +23,22 @@ View our unit tests [here](https://github.com/davidknight00/finance_app/tree/mas
 Here we are testing our form class to ensure that the form returns a valid input for a known U.S. publically traded stock's ticker. You can find the class [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/forms.py) and test file [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/tests/test_forms.py#L4-L7)
 
 #### 2.1.4
-The result of running the unit test can be seen in the image below
-**![Unit Test in Action](./deliverable_images/unittest_samplerun.png)**
+The result of running the unit tests can be seen in the image below:
+**![Unit Test Results](./deliverable_images/unittest_samplerun.png)**
 
 ### 2.2 Acceptance Test
 
 #### 2.2.1
-We used the Selenium framework
+We used the Selenium framework for Firefox and Chrome.
 
 #### 2.2.2
+View our acceptence tests [here](https://github.com/davidknight00/finance_app/tree/master/stockInfinity/stockInf/tests/acceptance)
 
 #### 2.2.3
+Here we are testing our login feature by ensuring that the test user successfully logs in and logs out. Check out the test [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/tests/acceptance/stockInfinityTests.side)
 
 #### 2.2.4
+The result of running the acceptance test can be seen in the image below:
+**![Acceptance Test Results](./deliverable_images/unittest_samplerun.png)**
 
 ## 3. Validation/User Evaluation 
