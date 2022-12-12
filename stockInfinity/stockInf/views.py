@@ -11,7 +11,7 @@ def account(request):
     return render(request, 'account.html')
 
 def search(request):
-    apikey = 'N4T0OWXY9YCO81EI'
+    apikey = 'REPLACE THIS STRING WITH YOUR OWN API KEY FROM ALPHA VANTAGE (ITS FREE!)'
     form = TickerForm()
     news = GoogleNews(lang = 'en', country = 'US')
     empty_news = False
