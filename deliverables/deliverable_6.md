@@ -6,19 +6,19 @@ StockInfinity aims to provide transparent stock information to users through mul
 
 While StockInfinity is still in its early development stages, our web application is available to select any and all users for local testing. This web app features a simple user interface with user experience as a main focal point, the ability to search for any publicly traded stock within the U.S., and the ability to favorite stocks after creating an account. User profiles allow us to control notification timing, whether that be based on daily notifications or price updates on a selected interval. No longer do we need to rely on biased information! Now, everyone can find unbiased information on the stocks that they want to purchase.
 
-Project repo: [Github link to StockInfinity](https://github.com/davidknight00/finance_app)
+Project repo: [Github link to StockInfinity](https://github.com/davidknight00/stockInfinity)
 
 ## 2. Implemented Requirements
 **Requirement**: As a long time stock trader, I want to be able to connect the change in a stock with a reason from a news article so I can understand the full picture. \
-**Issue**: https://github.com/davidknight00/finance_app/issues/30 \
-**Pull request**: https://github.com/davidknight00/finance_app/pull/65 \
+**Issue**: https://github.com/davidknight00/stockInfinity/issues/30 \
+**Pull request**: https://github.com/davidknight00/stockInfinity/pull/65 \
 **Implemented by**: David Knight, Jack Shanley, Nate Chan \
 **Approved by**: Alex Poole
 
 ## 3. Tests
 **Test Framework**: DJango unittest \
-See our tests [here](https://github.com/davidknight00/finance_app/tree/master/stockInfinity/stockInf/tests) \
-An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
+See our tests [here](https://github.com/davidknight00/stockInfinity/tree/master/stockInfinity/stockInf/tests) \
+An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/stockInfinity/blob/master/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/stockInfinity/blob/master/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
 
 **![StockInfinity unit test](./deliverable_images/unittest_samplerun.png)**
 
