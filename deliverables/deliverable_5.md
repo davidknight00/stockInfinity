@@ -6,7 +6,7 @@ StockInfinity aims to provide transparent stock information to users through mul
 
 While StockInfinity is still in it's early development stages, our web application is available to select any and all users for local testing. This web app features a simple user interface with user experience as a main focal point, the ability to search for any publically traded stock within the U.S., and the ability to favorite stocks after creating an account. User profiles allow us to control notification timing, whether that be based on daily notifications or price updates on a selected interval. No longer do we need to rely on biased information! Now, everyone can find unbiased information on the stocks that they want to purchase.
 
-Project repo: [Github link to StockInfinity](https://github.com/davidknight00/finance_app)
+Project repo: [Github link to StockInfinity](https://github.com/davidknight00/stockInfinity)
 
 ## 2. Architecture
 
