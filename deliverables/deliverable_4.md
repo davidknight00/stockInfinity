@@ -3,25 +3,25 @@
 ## 1. Introduction
 
 StockInfinity aims to provide transparent _stock_ information to users through multiple platforms to deliver a seamless experience and an exceptional level of accessibility. It is difficult to find a financial application that is not littered with unnecessary information. Many of the current _stock_ application powerhouses have had incidents in which they were exposed for ingenuine practices which have large impacts on an investor’s financial well being. For those who need honest and uncluttered information about their **favorite** _stocks_, Stock Infinity can bridge the gap that larger firms and companies have been incapable of providing. Our product offers a friendly interface that allows you to see the information that you need without the extra fluff. You can be confident that our product will deliver the information you need for your financial future without fail. A simple, honest, and comprehensive application that allows both novice and expert investors to view information on their preferred _stocks_ without having to sift through unnecessary information or worry about conflicting interests of shareholders affecting their access to information. \
-https://github.com/davidknight00/finance_app
+https://github.com/davidknight00/stockInfinity
 
 ## 2. Implemented requirements
 
 **Requirement**: As an experienced trader, I want to be able to see relevant information about the stock such as it’s market cap and price to earning ratio (P/E ratio) so that I can get an insight on what stocks I’m looking to track. \
-**Issue**: https://github.com/davidknight00/finance_app/issues/33 AND https://github.com/davidknight00/finance_app/issues/31 \
-**Pull request**: https://github.com/davidknight00/finance_app/pull/51 \
+**Issue**: https://github.com/davidknight00/stockInfinity/issues/33 AND https://github.com/davidknight00/stockInfinity/issues/31 \
+**Pull request**: https://github.com/davidknight00/stockInfinity/pull/51 \
 **Implemented by**: Jack Shanley, Nate Chan, and Preston Lee \
 **Approved by**: David Knight 
 
 **Requirement**: As a new stock trader, I want a visually appealing interface so that I can get into trading without having to rely on apps that look bad. \
-**Issue**: https://github.com/davidknight00/finance_app/issues/24<br />
-**Pull request**: https://github.com/davidknight00/finance_app/pull/51 \
+**Issue**: https://github.com/davidknight00/stockInfinity/issues/24<br />
+**Pull request**: https://github.com/davidknight00/stockInfinity/pull/51 \
 **Implemented by**: Alex Poole, David Knight, and Josh Heinz \
 **Approved** by: Jack Shanley 
 
 **Requirement**: As a socially ethical stock trader, I want the ability to be able to find information regarding particular companies with publicly traded stocks, so that I can make informed decisions about where I invest my money. \
-**Issue**: https://github.com/davidknight00/finance_app/issues/29 \
-**Pull request**: https://github.com/davidknight00/finance_app/pull/51 \
+**Issue**: https://github.com/davidknight00/stockInfinity/issues/29 \
+**Pull request**: https://github.com/davidknight00/stockInfinity/pull/51 \
 **Implemented by**: Alex Poole, Jack Shanley, Josh Heinz, and Nate Chan \
 **Approved by**: David Knight
 
@@ -29,8 +29,8 @@ https://github.com/davidknight00/finance_app
 ## 3. Tests
 
 **Test Framework**: DJango unittest
-See our unit testing [here](https://github.com/davidknight00/finance_app/tree/master/stockInfinity/stockInf/tests) \
-An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/finance_app/blob/master/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
+See our unit testing [here](https://github.com/davidknight00/stockInfinity/tree/master/stockInfinity/stockInf/tests) \
+An example test case that we created was testing that the correct view was being displayed for POST requests. This view can be seen [here](https://github.com/davidknight00/stockInfinity/blob/master/stockInfinity/stockInf/views.py#L16-L53) and the test for this view can be found [here](https://github.com/davidknight00/stockInfinity/blob/master/stockInfinity/stockInf/tests/test_views.py#L24-L34) These set of tests ensure that a ticker (such as TSLA) returns the correct html and response code, and tickers that do not exist (such as OMG) return the 404 page. 
 
 **![StockInfinity unit test](./deliverable_images/unittest_samplerun.png)**
 
@@ -59,15 +59,15 @@ Unfortuneatly, at the time of turning this deliverable in, we failed to deploy t
 
 - [MIT license overview](https://choosealicense.com/licenses/mit/)
 
-- [Our License](https://github.com/davidknight00/finance_app/blob/master/LICENSE)
+- [Our License](https://github.com/davidknight00/stockInfinity/blob/master/LICENSE)
 
 
 ## 8. Readme File
 
-- [Our README](https://github.com/davidknight00/finance_app/blob/master/README.md)
-- [Our CONTRUBITING](https://github.com/davidknight00/finance_app/blob/master/contributing.md)
-- [Our CODE OF CONDUCT](https://github.com/davidknight00/finance_app/blob/master/CODE_OF_CONDUCT.md)
-- [Our LICENSE](https://github.com/davidknight00/finance_app/blob/master/LICENSE)
+- [Our README](https://github.com/davidknight00/stockInfinity/blob/master/README.md)
+- [Our CONTRUBITING](https://github.com/davidknight00/stockInfinity/blob/master/contributing.md)
+- [Our CODE OF CONDUCT](https://github.com/davidknight00/stockInfinity/blob/master/CODE_OF_CONDUCT.md)
+- [Our LICENSE](https://github.com/davidknight00/stockInfinity/blob/master/LICENSE)
 
 
 ## 9. Look & feel
