@@ -7,7 +7,7 @@ This is an app that will display stocks to users. Users can favorite stocks they
 To get started with this web app, simply clone this repository and ensure the necessary dependencies are downloaded.
 
 ```
-git clone https://github.com/davidknight00/finance_app/
+git clone https://github.com/davidknight00/stockInfinity/
 ```
 
 ### Requirements
@@ -42,11 +42,11 @@ This app was build with Django (web framework) and Alpha Vantage (API)
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://www.github.com/davidknight00/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://www.github.com/davidknight00/stockInfinity/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-**Version: 1.0.0**. We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+**Version: 1.0.0**. We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/davidknight00/stockInfinity). 
 
 ## Authors
 
